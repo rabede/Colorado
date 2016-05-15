@@ -1,0 +1,23 @@
+This is the simplest gpx file which will import successfully as a waypoint:
+
+<gpx>
+<wpt lat="42" lon="-71">
+<name>Test</name>
+</wpt>
+</gpx>
+
+
+This is the simplest gpx file which will import successfully as a geocache:
+
+<gpx>
+<wpt lat="42" lon="-71">
+<name>GC1234</name>
+<Groundspeak:cache id="1">
+<Groundspeak:name>Test</Groundspeak:name>
+</Groundspeak:cache>
+</wpt>
+</gpx>
+
+
+The Colorado needs to see a groundspeak cache tag and requires a unique integer id for each cache. 
+It also needs a groundspeak name, removing the groundspeak name tag results in neither a waypoint or cache being created.

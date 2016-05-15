@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="OC2Colorado" default="dist">
+
+	<property name="project.name" value="${ant.project.name}" />
+	<property name="project.version" value="1.0" />
+
+	<property name="build.dir" value="build/classes" />
+	<property name="dist.dir" value="dist" />
+	<property name="src.dir" value="src/pocketQuery/" />
+
+	<property name="jarfile.name" value="${project.name}-${project.version}.jar" />
+	<property name="jarfile.path" location="${dist.dir}/${jarfile.name}" />
+
+	<property name="manifest.name" value="MANIFEST.MF" />
+	<property name="manifest.dir" value="META-INF" />
+	<property name="manifest.path" location="${manifest.dir}/${manifest.name}" />
+
+
+
+	<target name="init" description="creates the directories">
+		<mkdir dir="${build.dir}" />
+		<mkdir dir="${dist.dir}" />
+		<mkdir dir="${manifest.dir}" />
+	</target>
+
+	<target name="compile" depends="init" description="compiles the sources">
+		<javac srcdir="${src.dir}" destdir="${build.dir}" />
+		<copy todir="${build.dir}/pocketQuery">
+			<fileset dir="resources" includes="oc2colorado.xsl" />
+		</copy>
+	</target>
+
+	<target name="dist" depends="create-manifest" description="make the distribution">
+		<jar destfile="${jarfile.path}" index="true" manifest="${manifest.path}" basedir="${build.dir}" />
+	</target>
+
+	<target name="clean">
+		<delete dir="${build.dir}" />
+		<delete dir="${dist.dir}" />
+		<delete dir="${manifest.dir}" />
+	</target>
+
+	<target name="create-manifest" depends="compile" description="make the manifest">
+		<manifest file="${manifest.path}">
+			<attribute name="Built-By" value="${user.name}" />
+			<attribute name="Main-Class" value="pocketQuery.Query" />
+		</manifest>
+	</target>
+
+</project>

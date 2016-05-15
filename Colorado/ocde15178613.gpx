@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://geocaching.com.au/geocache/1 http://geocaching.com.au/geocache/1/geocache.xsd"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     version="1.0"
+     creator="www.opencaching.de">
+  <desc>Geocache</desc>
+  <author>Geocaching Australia</author>
+  <url>http://www.opencaching.de</url>
+  <urlname>www.opencaching.de</urlname>
+  <time>2008-12-15T19:21:17Z</time>
+
+	<wpt lat="51.05552" lon="7.14005">
+	<time>2006-12-31T00:00:00Z</time>
+	<name>OC2C11</name>
+	<desc>Kletterkünstler</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=114342</url>
+	<urlname>Kletterkünstler</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Kletterkünstler</name>
+			<owner>Burkhard2006</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Large</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">einfacher Cache - für Kinder geeignet</summary>
+			<description html="true">&lt;p&gt;Dieser Cache ist eigentlich sehr einfach, der Zeitaufwand nicht sehr hoch und eignet sich prima auch f&amp;uuml;r Kinder. Der letzte Teil der Suche kann etwas rutschig sein - Vorsicht!&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Parken k&amp;ouml;nnt Ihr bei N 51&amp;deg;03.230 E 007&amp;deg;08.243. &amp;nbsp;&lt;/p&gt;</description>
+			<hints>Unter einer Wurzel</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="362185">
+	<time>2008-10-11T00:00:00Z</time>
+	<geocacher>Rabe</geocacher>
+	<type>Not Found</type>
+	<text>Heute habe in der Umgebung des Spoilerbildes (von den Parkplatzkoordinaten geradeaus nach Osten und nicht den Berg hoch zu den Cachekoordinaten) nochmal etwas länger gesucht und wieder nichts gefunden. :-(</text>
+</log>
+
+
+<log id="300192">
+	<time>2008-05-10T00:00:00Z</time>
+	<geocacher>Rabe</geocacher>
+	<type>Not Found</type>
+	<text>Als Kletterkünstler fühlte ich mich bei der Anfahrt zu den angegebenen Koordinaten. Dort suchte ich dann relativ lange erfolglos nach einem Cache. :-(&lt;br /&gt;
+Schade, jetzt wo ich das Spoilerfoto und die Vorgängerlogs sehe, weiß ich daß ich mir die Höhenmeter hätte sparen können. :-((</text>
+</log>
+
+
+<log id="369337">
+	<time>2008-10-29T00:00:00Z</time>
+	<geocacher>Belgarath</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Habe den Cache heute mit Hilfe des Photos und der Coords von &lt;br /&gt;&amp;quot;geocache.weber&amp;quot; gefunden.&lt;/p&gt;&lt;p&gt;Viele Gr&amp;uuml;&amp;szlig;e&lt;br /&gt;Belgarath &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="362236">
+	<time>2008-10-11T00:00:00Z</time>
+	<geocacher>geocache.weber</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Gefunden!!!&lt;/p&gt;&lt;p&gt;&amp;nbsp;Da die Koordinaten ja fehlerhaft sind, hier die Koordinaten des Spoilers bzw. Caches:&lt;/p&gt;&lt;p&gt;&amp;nbsp;N51&amp;deg;03.198 E007&amp;deg;08.370&lt;/p&gt;&lt;p&gt;&amp;nbsp;Lieber Rabe,&lt;/p&gt;&lt;p&gt;wir haben ihn nach Dir gegen 20:00 Uhr gefunden. Gib bitte nicht auf und beachte den verschl&amp;uuml;sselten Hinweis sowie den Titel.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gr&amp;uuml;&amp;szlig;e&lt;/p&gt;&lt;p&gt;&amp;nbsp;Susanne und frank&lt;/p&gt;&lt;p&gt;alias geocache.weber&lt;/p&gt;</text>
+</log>
+
+
+<log id="253043">
+	<time>2008-01-06T00:00:00Z</time>
+	<geocacher>schwarzepappe</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;War Heute Hinter dem Cache her , die ausage Von Grobi kann ich nur Best&amp;auml;tigen, Habe aber nur den Spoiler Gefunden&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cry.gif&quot; border=&quot;0&quot; alt=&quot;Cry&quot; title=&quot;Cry&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;War heute ein entteuchender Tag!&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; schwarzepappe&lt;/p&gt;</text>
+</log>
+
+
+<log id="260284">
+	<time>2008-01-06T00:00:00Z</time>
+	<geocacher>upright11</geocacher>
+	<type>Not Found</type>
+	<text>Schade,&lt;br /&gt;&lt;br /&gt;da war nichts.&lt;br /&gt;&lt;br /&gt;upright11&lt;br /&gt;</text>
+</log>
+
+
+<log id="152761">
+	<time>2007-03-27T00:00:00Z</time>
+	<geocacher>Gorbi_                                                      </geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;18:30 Uhr ---&amp;nbsp; Den Cache aber nur wegen des Spoilerbildes gefunden - die Koordinaten scheinen nicht zu stimmen (Cachefundort war etwa 280m Luftlinie von den angegebenen Koordinaten entfernt), sollten vom Owner vielleicht mal &amp;uuml;berpr&amp;uuml;ft werden.&lt;/p&gt;&lt;p&gt;IN: Schl&amp;uuml;sselband&lt;/p&gt;&lt;p&gt;OUT: Karabiner&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Herbert&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.99167" lon="7.13000">
+	<time>2008-03-19T00:00:00Z</time>
+	<name>OC5476</name>
+	<desc>Marktauge</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=124686</url>
+	<urlname>Marktauge</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Marktauge</name>
+			<owner>teamasta</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Webcam</type>
+			<container>Virtual</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Ein schneller Webcam-Cache in GL</summary>
+			<description html="true">Ein Webcam-Cache in Bergisch Gladbach&lt;br /&gt;&lt;br /&gt;Auf der Homepage der Stadt Bergisch Gladbach findet ihr einen Link zur Webcam auf dem Konrad-Adenauer-Platz.&lt;br /&gt;&lt;br /&gt;Um diesen Webcam-Cache loggen zu d&amp;uuml;rfen, ben&amp;ouml;tigt ihr eine Aufnahme von euch! L&amp;auml;chelt nett in die Kamera und winkt uns doch mal! Dabei darf aber nur der loggen, der auch auf dem Foto zu sehen ist!&lt;br /&gt;&lt;br /&gt;Die Koordinaten sind nicht 100% genau. Ihr solltet Euch schon die Bilder genau anschauen, wo ihr am besten im Bild seht und euch von eurem Fotografen &amp;quot;ins rechte Licht&amp;quot; r&amp;uuml;cken lassen.&lt;br /&gt;&lt;br /&gt;Alle Logs, die nicht die Bedingungen erf&amp;uuml;llen, werden gel&amp;ouml;scht.&lt;br /&gt;&lt;br /&gt;Viel Spa&amp;szlig;!</description>
+			<hints>brauchst du nicht</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="304014">
+	<time>2008-05-20T00:00:00Z</time>
+	<geocacher>newbie2007</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;So mal ganz kurz den allerersten Cache in meiner Karriere als Newbie &lt;/p&gt;&lt;p&gt;in Sachen Geocachen gemacht. &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Ich hoffe das Bild reicht zum loggen. Danke f&amp;uuml;r die witzige Idee und ein herzliches Dankesch&amp;ouml;n an Sabrina die das Photo von mir gemacht hat!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Lg Mathias und am PC Sabrina&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="300200">
+	<time>2008-05-10T00:00:00Z</time>
+	<geocacher>DieCacheFinder</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; FTF  &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt;  &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; &lt;/p&gt;&lt;p&gt;Unser erster Webcam-Cache und dann auch noch ein FTF.&lt;/p&gt;&lt;p&gt;Wir haben die Pfingst-Kirmes in Bergisch Gladbach besucht und nebenbei ganz unauff&amp;auml;llig die Logbedingungen erf&amp;uuml;llt.&amp;nbsp; Leider ist die Qualit&amp;auml;t des Webcambildes in der D&amp;auml;mmerung nicht ganz so gut, aber die eingekreisten Personen sind wir.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;TFTC&lt;/p&gt;&lt;p&gt;DieCacheFinder&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.94130" lon="6.95813">
+	<time>2007-10-05T00:00:00Z</time>
+	<name>OC44AE</name>
+	<desc>Kölns höchster trigonometrischer Punkt</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=120643</url>
+	<urlname>Kölns höchster trigonometrischer Punkt</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Kölns höchster trigonometrischer Punkt</name>
+			<owner>Thoto</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Virtual</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Dieser Cache führt Euch zum höchsten trigonometrischen Punkt Kölns</summary>
+			<description html="true">&lt;div align=&quot;center&quot;&gt;&lt;font size=&quot;4&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;Um diesen Cache zu loggen, mache ein Foto von dir an K&amp;ouml;lns h&amp;ouml;chstem trigonometrischen Punkt. Er befindet sich in einer Aussichtskanzel auf dem K&amp;ouml;lner Dom. Leider kann er nur im Rahmen einer F&amp;uuml;hrung erreicht werden. Diese lohnt sich aber auf jeden Fall und daher m&amp;ouml;chte ich mit dem Cache ein bisschen Werbung daf&amp;uuml;r machen.&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;images/uploads/45ED713F-2FD4-1026-9CB2-46B17C29A996.jpg&quot; alt=&quot;Der trigonometrische Punkt&quot; title=&quot;Der trigonometrische Punkt&quot; width=&quot;320&quot; height=&quot;232&quot; align=&quot;absmiddle&quot; /&gt;&amp;nbsp;&lt;/div&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="389800">
+	<time>2008-12-12T00:00:00Z</time>
+	<geocacher>jb1967</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute auf einer wunderbaren F&amp;uuml;hrung auch diese tolle Stelle entdeckt.&lt;/p&gt;&lt;p&gt;Danke Thoto f&amp;uuml;r diesen und viele andere Hinweise rund um unseren sch&amp;ouml;nen Dom.&lt;/p&gt;&lt;p&gt;Foto folgt, Jens von jb1967&lt;/p&gt;</text>
+</log>
+
+
+<log id="381194">
+	<time>2008-11-19T00:00:00Z</time>
+	<geocacher>FC-Cacher</geocacher>
+	<type>Found</type>
+	<text>Endeckt bei einer Führung über das Dach des Kölner Doms - sehr tolle Ausblicke! Lohnt sich!  &lt;br /&gt;
+&lt;br /&gt;
+Vlg&lt;br /&gt;
+FC-Cacher &lt;br /&gt;
+&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="333114">
+	<time>2008-08-03T00:00:00Z</time>
+	<geocacher>suchdirwasaus</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die F&amp;uuml;hrung ist nur zu empfehlen auch wenn man sich weit vorher anmelden mu&amp;szlig;.&lt;/p&gt;&lt;p&gt;Da mein Garmin defekt war, hatte ich schon die Hoffnung aufgegeben ein Foto zu machen.Genau am Tag der F&amp;uuml;hrung klingelte der Postbote und brachte ein Neu ger&amp;auml;t vorbei somit. Logeintrag.&lt;/p&gt;&lt;p&gt;Sch&amp;ouml;ne Idee f&amp;uuml;r einen Chache. DANKE&lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="231993">
+	<time>2007-11-17T00:00:00Z</time>
+	<geocacher>Macfuddl</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die F&amp;uuml;hrung auf das Dach des Domes kann man wirklich nur empfehlen. Und wir hatten das besondere Gl&amp;uuml;ck, da&amp;szlig; das Wetter sonnig und windstill war.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die Fotos habe ich just-for-geocachers-fun gemacht und kann sie hier jetzt sogar noch gut unterbringen&lt;/p&gt;&lt;p&gt;Danke an Thoto f&amp;uuml;r den Hinweis und den Cache &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="217383">
+	<time>2007-10-10T00:00:00Z</time>
+	<geocacher>swg62</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Zuf&amp;auml;llig bei einer F&amp;uuml;hrung ein Foto geschossen.&lt;/p&gt;&lt;p&gt;Die F&amp;uuml;hrung kann ich in jedem Fall empfehlen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Beste Gr&amp;uuml;&amp;szlig;e&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;SWG62&lt;/p&gt;&lt;p&gt;Christian&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="219921">
+	<time>2007-10-06T00:00:00Z</time>
+	<geocacher>jensileinchen</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;beweisfoto siehe blackbeard :) vielen dank f&amp;uuml;r die verfotografierung an diesem tollen punkt :) danke an thorsten f&amp;uuml;r den cache :) und bis bald, im wald (oder unter dem dom !?)&lt;/p&gt;&lt;p&gt;jensileinchen&lt;/p&gt;</text>
+</log>
+
+
+<log id="318110">
+	<time>2007-10-06T00:00:00Z</time>
+	<geocacher>Airwolf26</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo Thorsten,&lt;/p&gt;&lt;p&gt;auch ich war dabei...&lt;/p&gt;&lt;p&gt;TFTC Wolfgang.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="217756">
+	<time>2007-10-05T00:00:00Z</time>
+	<geocacher>blackbeard69</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Auch wenn ich bei dem beigef&amp;uuml;gten Foto leider auf der anderen Seite der Kamera stand, kann ich doch best&amp;auml;tigen, dass ich dort oben war und den trigonometrischen Punkt gesehen habe.&lt;/p&gt;&lt;p&gt;Bez&amp;uuml;glich der anderen, abgelichteten Personen er&amp;uuml;brigt sich wohl die Frage nach der Anwesenheit ;-)&lt;/p&gt;&lt;p&gt;Vielen Dank und viele Gr&amp;uuml;&amp;szlig;e&lt;br /&gt;blackbeard69&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="292494">
+	<time>2007-10-05T00:00:00Z</time>
+	<geocacher>smillax</geocacher>
+	<type>Found</type>
+	<text>Eine klasse F&amp;uuml;hrung! Hat super viel Spa&amp;szlig; gemacht und die Sicht war wirklich einzigartig! Foto siehe blackbeard69! </text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.12983" lon="6.87292">
+	<time>2005-09-03T00:00:00Z</time>
+	<name>OC0117</name>
+	<desc>Haus Bürgel</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=103293</url>
+	<urlname>Haus Bürgel</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Haus Bürgel</name>
+			<owner>Der Wolf und die Mäuse</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Regular</container>
+			<difficulty>2.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">[Letterbox] Spaziergang durch die Urdenbacher Kämpe: 3km ohne GPS</summary>
+			<description html="true">&lt;p&gt;
+Der Rundweg führt dich etwa 3km ohne Höhenmeter über Wanderwege und Trampelpfade. Die Teilstrecke 2 ist für Fahrrad und Kinderwagen nicht geeignet. Ich empfehle lange Hosen. Du brauchst kein GPS, ein Kompaß reicht.
+&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;tt&gt;Hinweis für &quot;echte&quot; Letterboxer: es gibt noch keinen
+Stempel&lt;/tt&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit der Buslinie &lt;code&gt;788&lt;/code&gt; erreichst Du vom Bahnhof
+Düsseldorf-Benrath oder von Monheim aus die Haltestelle
+&quot;Haus&amp;nbsp;Bürgel&quot;. In der Nähe kannst Du auch parken. 
+Startpunkt ist am Eingang von Haus Bürgel gegenüber dem großen
+Carport mit rotem Dach.&lt;/p&gt;
+
+&lt;ol&gt;
+
+&lt;li&gt;Gehe in Richtung 260°, bis Du nach 190m eine Weggabelung
+erreichst. Folge dort den Leitungsmasten. Nach etwa 200m führt ein
+deutlich sichtbarer breiter Weg in den Wald. Der Weg endet nach
+etwa 30m an einem Feld.&lt;/li&gt;
+
+&lt;li&gt;Ein Trampelpfad führt am Feldrand entlang nach rechts. Folge
+dem Trampelpfad. Nach 170m findest Du am Waldrand ein Baumhaus. Der
+Weg führt über eine Blumenwiese und endet dann an einem Tor in
+einem Zaun. Folge dem Zaun nach links bis zur Ecke.&lt;/li&gt;
+&lt;li&gt;An der Ecke biege links ab.&lt;/li&gt;
+
+&lt;!--
+Am Eckpfosten findest Du Deine nächste Richtung:&lt;br /&gt;
+&lt;img src=&quot;http://www.geocaching.com/images/icons/icon_smile_question.gif&apos;border=&apos;0&quot; align=&quot;middle&quot; alt=&quot;?&quot; /&gt;_____°
+--&gt;
+
+&lt;li&gt;Nach ca 140m zweigt am Rande einer Wiese ein gut sichtbarer Weg
+ab. Folge ihm über die Wiese und durch die Bäume. Nach etwa 225m
+findest Du &quot;Nummer&amp;nbsp;Zwei&quot;.&lt;/li&gt;
+
+&lt;li&gt;&quot;Nummer&amp;nbsp;Zwei&quot; verrät Dir einen Code:&lt;br /&gt;
+&lt;img alt=&quot;?&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://www.netzwolf.info/i/gc/ques_15x15.gif&quot; /&gt;
+
+
+&lt;table border=&quot;1&quot;&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;tt&gt;A=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;B=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;C=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;D=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;E=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;&lt;tr&gt;
+&lt;td&gt;&lt;tt&gt;F=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;G=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;H=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;I=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;td&gt;&lt;tt&gt;J=&lt;/tt&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;img alt=&quot;?&quot; width=&quot;15&quot; height=&quot;15&quot; src=&quot;http://www.netzwolf.info/i/gc/ques_15x15.gif&quot; /&gt;
+&lt;/li&gt;
+
+&lt;li&gt;Weiter geht es in Richtung &quot;Nummer&amp;nbsp;Neun&quot;
+(Hint&amp;nbsp;1).&lt;br /&gt;
+Nach etwa 270m, kurz bevor Du &quot;Nummer&amp;nbsp;Neun&quot; erreichst, folge
+dem abknickenden Weg nach links.&lt;/li&gt;
+
+&lt;li&gt;Nach weiteren 250m erreichst Du im Wald eine Wegkreuzung.
+Ignoriere die Eule und nimm den Pfad scharf links.&lt;/li&gt;
+&lt;li&gt;Nach weiteren 130m - immer noch im Wald - gabelt sich der Pfad.
+Halte dich rechts.&lt;/li&gt;
+
+&lt;li&gt;Nach weiteren 80m endet der Pfad bei einer Bank. Biege rechts
+ab und folge nach 30m dem Wegweiser.&lt;/li&gt;
+
+&lt;li&gt;Nach HF0=______m ist ein Baum auf der linken Seite
+des Weges mit zwei Vögeln, drei Pfeilen und anderen Zeichen bemalt.
+Die Dose ist EB=______m in Richtung ABD=______°
+von diesem Baum recht regensicher versteckt
+(Hint&amp;nbsp;2).&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;p&gt;Viel Spaß bei Wanderung und Suche wünschen
+&lt;i&gt;Der Wolf und die Mäuse&lt;/i&gt;
+&lt;img alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; src=&quot;http://www.netzwolf.info/c/1x1.cgi?oc103293=hausbuergel&quot; /&gt;
+&lt;/p&gt;</description>
+			<hints>[1] Nummer Neun hat Doppelgaenger. Wer ist der richtige?
+[2] Die Dose haengt unter dem Dach.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="320436">
+	<time>2008-07-05T00:00:00Z</time>
+	<geocacher>Ringolinos</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nach einer&amp;nbsp;sch&amp;ouml;nen Runde haben wir heute an einem&amp;nbsp;sonnigen Nachmittag unseren zweiten Cache geloggt.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;in=&amp;gt; kleines Labyrinthspiel&lt;/li&gt;&lt;li&gt;out=&amp;gt; Stehaufm&amp;auml;nnchen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Danke f&amp;uuml;r die sch&amp;ouml;ne Tour,&amp;nbsp;die Ringolinos!&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="300998">
+	<time>2008-05-12T00:00:00Z</time>
+	<geocacher>2Bs</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Sch&amp;ouml;ne Runde und eine kleine &amp;quot;Ehrenrunde&amp;quot; wegen der Zwillingsneunen.&lt;br /&gt;Danke.&lt;/p&gt;&lt;p&gt;In: Stehaufm&amp;auml;nnchen&lt;/p&gt;&lt;p&gt;Out: Rollendes H&amp;auml;schen&lt;/p&gt;</text>
+</log>
+
+
+<log id="270664">
+	<time>2008-02-24T00:00:00Z</time>
+	<geocacher>Die wilde 3</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wir haben heute bei einem sch&amp;ouml;nen Spaziergang dank der guten Beschreibung auf Anhieb unseren ersten Cache gefunden. Der gr&amp;ouml;&amp;szlig;te Spa&amp;szlig; f&amp;uuml;r unser Lieschen. Wir haben Lust auf mehr bekommen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;In: Elektrospiel&lt;/p&gt;&lt;p&gt;&amp;nbsp;Out: Zaubererfigur&lt;/p&gt;</text>
+</log>
+
+
+<log id="269129">
+	<time>2008-02-19T00:00:00Z</time>
+	<geocacher>hongbing</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute mit einer sch&amp;ouml;nen laufrunde verbunden und gefunden. Vielen Dank.&lt;/p&gt;&lt;p&gt;hongbing&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="267333">
+	<time>2008-02-16T00:00:00Z</time>
+	<geocacher>pwilly</geocacher>
+	<type>Found</type>
+	<text>Haben heute den Cache gefunden. Es hat den Kindern riesigen Spass gemacht.&lt;br /&gt;</text>
+</log>
+
+
+<log id="256344">
+	<time>2008-01-13T00:00:00Z</time>
+	<geocacher>Junger Ego</geocacher>
+	<type>Found</type>
+	<text>Gefunden. Haben allerdings erst die Zwillings-Neun angesteuert. Nette Runde bei sch&amp;ouml;nsten Januarwetter. </text>
+</log>
+
+
+<log id="256205">
+	<time>2008-01-13T00:00:00Z</time>
+	<geocacher>kie</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;sch&amp;ouml;nes wetter, sch&amp;ouml;ner rhein, sch&amp;ouml;ner spaziergang. 4 festivalfan.de-er und hund haben sich bestens am&amp;uuml;siert und wie immer verlaufen.&lt;/p&gt;&lt;p&gt;in: travel bug&lt;/p&gt;&lt;p&gt;out: nischt&lt;/p&gt;</text>
+</log>
+
+
+<log id="215440">
+	<time>2007-10-05T00:00:00Z</time>
+	<geocacher>Team Timbo</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Klasse Cache, den wir fast schon bei Punkt 1 abbrechen und zu einem sp&amp;auml;teren Zeitpunkt fortsetzen wollten. Haben dann aber die Version &amp;quot;Maislabyrinth&amp;quot; gew&amp;auml;hlt und uns durchgeschlagen.!&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; Danach war der Cache, Dank der guten Beschreibung, schnell gefunden.&lt;/p&gt;&lt;p&gt;Vielen Dank und sch&amp;ouml;ne Gr&amp;uuml;&amp;szlig;e&lt;/p&gt;&lt;p&gt;Die Bossis mit dem Lukas&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="215186">
+	<time>2007-10-04T00:00:00Z</time>
+	<geocacher>Dagmar11872</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo,&lt;/p&gt;&lt;p&gt;ich habe den Cache nach ca. 1,5 Stunden gefunden.&lt;/p&gt;&lt;p&gt;Es war ein wundersch&amp;ouml;ner Spaziergang und die Codes waren sehr gut zu kombinieren! Leider hatte der Regen dem Cache etwas zugesetzt. Ich habe ein paar Kleinigkeiten hineingelegt.&lt;/p&gt;&lt;p&gt;Allen viel Spass dabei,&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Dagmar11872&lt;/p&gt;</text>
+</log>
+
+
+<log id="220258">
+	<time>2007-09-30T00:00:00Z</time>
+	<geocacher>aerosmithmusik</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo&lt;/p&gt;&lt;p&gt;Haben den Cache super gut gefunden. Sch&amp;ouml;ner Rundgang in der Natur.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Danke sagen Elke, Albi, Astrid, Bastian und Dieter&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gr&amp;uuml;&amp;szlig;e von&lt;/p&gt;&lt;p&gt;Aerosmithmusik&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="154982">
+	<time>2007-04-06T00:00:00Z</time>
+	<geocacher>TeamNassePfote</geocacher>
+	<type>Found</type>
+	<text>Das war unser erster Cache und hat uns wirklich Spa&amp;szlig; gemacht, man k&amp;ouml;nnte sagen uns hat das Fieber gepackt.&lt;br /&gt;&lt;br /&gt;LG&lt;br /&gt;TeamNassePfote&lt;br /&gt;&lt;br /&gt;In: Baldrian Schaf&lt;br /&gt;Out: Coin: Forty-n-Eight&amp;#39;s Washington Quarter # 25&lt;br /&gt;</text>
+</log>
+
+
+<log id="155241">
+	<time>2007-04-06T00:00:00Z</time>
+	<geocacher>greiol</geocacher>
+	<type>Found</type>
+	<text>Leider war das Museum in Haus Bürgel heute geschlossen, aber dafür war der Tag perfekt für einen Spaziergang. Der bei 2. angegebene Trampelpfad existiert zwar nicht mehr, aber ein fehlender Pfad hat uns selten aufgehalten und die angegebenen Landmarken halfen uns auf Kurs zu bleiben. Bei dem Wetter war natürlich einiges in der Gegend los, aber die Strecke führte immer wieder auch an ruhigere Stellen und am Schluss half dann ein beherzter Griff.&lt;br /&gt;
+&lt;br /&gt;
+In: GC Washington Quater&lt;br /&gt;
+Out: TB Speed</text>
+</log>
+
+
+<log id="155474">
+	<time>2007-04-01T00:00:00Z</time>
+	<geocacher>toxi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;3&quot;&gt;sehr sch&amp;ouml;ne runde in vertrauter umgebung. allerdings gibt es den trampelpfad neben dem acker nicht mehr, der bauer hat ihn mit&amp;nbsp; umgepfl&amp;uuml;gt.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; aber zum gl&amp;uuml;ck war es trocken und wir konnten auf dem frisch gepfl&amp;uuml;gtem feld laufen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;3&quot;&gt;vielen dank f&amp;uuml;r die sch&amp;ouml;ne runde.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;3&quot;&gt;ciao&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;3&quot;&gt;&lt;font size=&quot;4&quot;&gt;team toxi alias Marc &amp;amp; Petra aus hilden&lt;/font&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; /&gt;&lt;/font&gt;&lt;font size=&quot;3&quot;&gt; &lt;/font&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="149001">
+	<time>2007-03-11T00:00:00Z</time>
+	<geocacher>quantenquark</geocacher>
+	<type>Found</type>
+	<text>Netter Rundweg, etwas matschig aber schön.&lt;br /&gt;
+&lt;br /&gt;
+in: Einkaufswagenchip mit Karabiner&lt;br /&gt;
+out: TKKG-Kassette Folge 82&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="178741">
+	<time>2007-03-11T00:00:00Z</time>
+	<geocacher>Urmel1982</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Mein zweiter Cache nach Benrath Classic, nur diesmal im Hellen. Nach l&amp;auml;ngeren Regenf&amp;auml;llen der erste sch&amp;ouml;ne Tag, deshalb recht matschig.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="235331">
+	<time>2006-12-17T00:00:00Z</time>
+	<geocacher>paddelsamson</geocacher>
+	<type>Found</type>
+	<text>#312&lt;br /&gt;
+Wurde mal Zeit, diese Letterbox anzugehen, da er a) lange nicht gefunden wurde und b) ich auch hin und wieder in Monheim bin. Heute war es dann soweit, hat auch alles ganz gut geklappt, war alles  gut zu finden, eine kleine Extra-Runde musste ich allerdings einlegen. Waren aber trotzdem nur 2,8 KM auf dem Tacho.&lt;br /&gt;
+&lt;br /&gt;
+Vielen Dank für den Spaziergang an einem schönen Herbsttag.&lt;br /&gt;
+&lt;br /&gt;
+IN: TB Speed&lt;br /&gt;
+OUT: TB Tux</text>
+</log>
+
+
+<log id="117083">
+	<time>2006-10-01T00:00:00Z</time>
+	<geocacher>Homer Jay</geocacher>
+	<type>Found</type>
+	<text>Eigentlich konnte man es ja in den Logs lesen : Schwerstarbeit  im Kampf durch Mais und Brennesseln. Toll ist zur Zeit etwas anderes. Das Feld wird aber bestimmt bald abgeerntet. Der Rest der Runde ist aber recht schön. Alle Angaben sind sehr genau und eigentlich kann nichts schiefgehen.&lt;br /&gt;
+Vielen Dank für diesen Dschungel-Cache&lt;br /&gt;
+Homer Jay&lt;br /&gt;
+&lt;br /&gt;
+in : Postit-Sticker&lt;br /&gt;
+out : div. Müll</text>
+</log>
+
+
+<log id="125878">
+	<time>2006-09-27T00:00:00Z</time>
+	<geocacher>Wetterwachs</geocacher>
+	<type>Found</type>
+	<text>&lt;font face=&quot;Verdana&quot; size=&quot;2&quot;&gt;&lt;span&gt;&lt;font face=&quot;Verdana&quot; size=&quot;2&quot;&gt;Von Benrath sind wir hierher ged&amp;uuml;st und haben uns durch die Mais- und Brennnesselfelder gek&amp;auml;mpft. Puh!&lt;br /&gt;Danach war die Runde aber sehr sch&amp;ouml;n: Rhein, W&amp;auml;ldchen... Nett!&lt;br /&gt;Viele Gr&amp;uuml;&amp;szlig;e&lt;br /&gt;Team Wetterwachs&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;</text>
+</log>
+
+
+<log id="111860">
+	<time>2006-08-29T00:00:00Z</time>
+	<geocacher>oxymorona</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;2x nass geworden! Und dann mit Wetterfester Kleidung und Gummistiefel rutschenderweise durch das Maisfeld. &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; /&gt; Ab Punkt 6 ging das alles recht flott. Eine sch&amp;ouml;ne kleine Runde die mir pers&amp;ouml;nlich sehr viel Spa&amp;szlig; gemacht hat! Eine echte Herausforderung! &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-foot-in-mouth.gif&quot; border=&quot;0&quot; alt=&quot;Foot in mouth&quot; title=&quot;Foot in mouth&quot; /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;OUT: TB Red nose beer jug&lt;br /&gt;IN: TB Piglet&lt;br /&gt;&lt;br /&gt;TFTC ... Dieter&lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="111621">
+	<time>2006-08-27T00:00:00Z</time>
+	<geocacher>oxymorona</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;&lt;span&gt;Also, da wo der Trampelpfad rechts am Feld entlag laufen soll (2. Station) befindet sich ein Maisfeld. Da der Bauer das Feld sehr nah an den Wald gepfl&amp;uuml;gt hat ist dort kein Pfad mehr. Aber 1,60 hohes Unkraut was pietscht! &lt;/span&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-frown.gif&quot; border=&quot;0&quot; alt=&quot;Frown&quot; title=&quot;Frown&quot; /&gt;&lt;br /&gt;&lt;span&gt;Im Augenblick ist die Aufgabe ( Haus B&amp;uuml;rgel) wohl nicht zu l&amp;ouml;sen! Ich komme in ein paar Monaten noch einmal vorbei ... &lt;/span&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; ... Dieter&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;span&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;
+</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.93847" lon="6.95410">
+	<time>2008-11-30T00:00:00Z</time>
+	<name>OC7023</name>
+	<desc>Advent, Advent: Der Kölner Krippenweg</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=131775</url>
+	<urlname>Advent, Advent: Der Kölner Krippenweg</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Advent, Advent: Der Kölner Krippenweg</name>
+			<owner>kupferkopf</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Virtual</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">wer suchet der findet im Advent ganz viele Krippen</summary>
+			<description html="true">&lt;p&gt;Jedes Jahr im Advent werden in der K&amp;ouml;lner Innenstadt und in den Stadtteilen von vielen Kirchen aber auch von manchen Unternehmen Krippen auf den Pl&amp;auml;tzen und in den Schaufenstern ausgestellt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Viele der Krippenstationen sind im &amp;quot;K&amp;ouml;lner Krippenweg&amp;quot; zusammengefasst, eine bunte Sammlung von historischen, k&amp;uuml;nstlerischen, modernen und traditionellen Darstellungen. Bei manchen Krippen, insbesondere in den Kirchen, wird das Arrangement jede Woche dem Verlauf der Weihnachtsgeschichte angepasst. &lt;/p&gt;&lt;p&gt;Gerade bei der Vielzahl an Weihnachtsm&amp;auml;rkten in der Innenstadt, ist doch ein kleiner Stadtbummel eine gute Idee. Warum nicht dabei gleich an einer der Stationen innehalten?&amp;nbsp; &lt;/p&gt;&lt;p&gt;Also: Suchet und ihr werdet finden... &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Logbedingung:&amp;nbsp; &lt;/p&gt;&lt;p&gt;Mache ein Foto von einer Krippe&amp;nbsp; und ver&amp;ouml;ffentliche es hier im Log zusammen mit der Nummer der gefundenen Krippe. &lt;/p&gt;&lt;p&gt;Bereits geloggte Krippen d&amp;uuml;rfen nicht nocheinmal als &amp;quot;gefunden&amp;quot; geloggt werden, es sei denn, die Darstellung der Figuren oder das Arrangement hat sich seit dem letzten Fund ver&amp;auml;ndert. &lt;/p&gt;&lt;p&gt;Und... Bitte jeder nur ein Kreuz! &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Hinweis: &lt;/p&gt;&lt;p&gt;An den Stationen ist kein Cache-Beh&amp;auml;lter versteckt, also bitte nicht im Heu herumsuchen, oder das Jesuskind aus der Krippe heben.&amp;nbsp; &lt;/p&gt;</description>
+			<hints>koelner krippenweg de</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="388225">
+	<time>2008-12-08T00:00:00Z</time>
+	<geocacher>FORN</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Diese Krippe Nr. 58 ist quasi meine Heimatkrippe. Ich schaue mir immer wieder gerne die Kirche St. Gereon an; und das nicht nur, weil sie direkt um die Ecke liegt. Sie ist eine der gr&amp;ouml;&amp;szlig;ten und &amp;auml;ltesten Kirchen K&amp;ouml;lns. Sehr empfehlen kann ich die Orgelkonzerte, die hier jeden Herbst stattfinden.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Das Arrangement der Krippe wird &amp;uuml;brigens regelm&amp;auml;&amp;szlig;ig gewechselt, um verschiedene Stellen der Bibel darzustellen. Ich habe die Taufe im Jordan erwischt.&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.92900" lon="6.94667">
+	<time>2007-06-12T00:00:00Z</time>
+	<name>OC3736</name>
+	<desc>St. Pantaleon</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=117195</url>
+	<urlname>St. Pantaleon</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>St. Pantaleon</name>
+			<owner>nordmann</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Micro</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false"></summary>
+			<description html="true">&lt;div align=&quot;center&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;font face=&quot;arial black,avant garde&quot; size=&quot;7&quot; color=&quot;#cc0000&quot;&gt;Der St. Pantaleon Micro&lt;/font&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;http://freenet-homepage.de/corpseeater/StPantaleon2.jpg&quot; alt=&quot;&quot; width=&quot;416&quot; height=&quot;554&quot; /&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;strong&gt;Allgemein gilt: A = 1 , B&amp;nbsp; = 2 , C = 3 ....&lt;/strong&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1.&amp;nbsp; Wann wurde die Benedektinerabtei gegr&amp;uuml;ndet ?&amp;nbsp; &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;X&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2.&amp;nbsp; Welche zwei Buchstaben stehen am Eingang ?&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;1. Buchstabe = C , 2. Buchstabe = D&lt;/strong&gt;&lt;/font&gt;&lt;br /&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3.&amp;nbsp; Wann wurde die Maria - Statue erschaffen ?&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt; Y&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Der Cache ist zu finden bei:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;N 50&amp;deg; 55,&amp;nbsp; &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;X&lt;/strong&gt;&lt;/font&gt; - ( 10 * &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;/font&gt; + 7 )&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;E&amp;nbsp;&amp;nbsp; 6&amp;deg; 57,&amp;nbsp; Y - [ ( &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;font color=&quot;#000000&quot;&gt; * 1998 ) - &lt;font color=&quot;#0000cc&quot;&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/font&gt; ]&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;strong&gt;Nehmt einen Bleistift zum loggen mit.&amp;nbsp;&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;strong&gt;Bitte den Cache wieder gut verstecken !!! Danke :)&amp;nbsp;&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&amp;nbsp;&lt;/div&gt;</description>
+			<hints>Die Hinweise sind nicht nur am Eingang zu finden.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="258620">
+	<time>2008-01-20T00:00:00Z</time>
+	<geocacher>Kellerasseln</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wir haben den Cache heute um 18:30 Uhr gefunden und fanden es alle sehr spannend. Es war unser erster&amp;nbsp;Fund. Sehr sch&amp;ouml;ne Kirche und ein sch&amp;ouml;ner Rundgang. Nicht so wahnsinnig weit, auch gut f&amp;uuml;r unseren kleinste Kellerassel mit 3 Jahren geeignet. Die Probleme der anderen konnten wir gar nicht so nachvollziehen. Wir haben das Erschaffungsjahr der Mariastatue auch nicht gefunden, aber mit sch&amp;auml;tzen ging es auch ganz gut. Wir fanden es toll!!&lt;/p&gt;</text>
+</log>
+
+
+<log id="244053">
+	<time>2007-11-12T00:00:00Z</time>
+	<geocacher>Betzjen</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Sch&amp;ouml;ner Cache, nach anf&amp;auml;nglichen Mi&amp;szlig;verst&amp;auml;ndnis mit dem griechichen Alphabet &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;, doch recht schnell gefunden...&lt;/p&gt;&lt;p&gt;TFTC&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="202251">
+	<time>2007-09-01T00:00:00Z</time>
+	<geocacher>UteHans</geocacher>
+	<type>Found</type>
+	<text>Nette Runde, von der Seite habe ich das noch nicht gesehen! Alles recht gut zu finden, wenn auch die Koors bei nassen Bäumen etwas ungenau waren. Vorsicht: überall Tretminen! Um 10.35 Uhr haben wir ihn dann finden können.&lt;br /&gt;
+Danke sagen Ute und Hans</text>
+</log>
+
+
+<log id="193933">
+	<time>2007-08-05T00:00:00Z</time>
+	<geocacher>Fam.HALT</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ha ,alle 3 Fragen gel&amp;ouml;st, aber Cache nicht gefunden.&lt;/p&gt;&lt;p&gt;Oder sollten wir uns ein Ticket ziehen ?&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&amp;nbsp;Wir versuchen es demn&amp;auml;chst noch einmal.&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Fam.HALT&lt;/p&gt;</text>
+</log>
+
+
+<log id="189884">
+	<time>2007-07-29T00:00:00Z</time>
+	<geocacher>henni77</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Hallo nNordmann,&lt;/p&gt;&lt;p&gt;wir wollten heute den verregneten Nachmittag
+zu einer Cache-Suche nutzen und haben das sch&amp;ouml;ne St. Pantaleon besucht.
+Leider haben wir zur dritten Frage keine Antwort finden k&amp;ouml;nnen, auch
+die Nonnen in der Kirche wussten uns nicht zu helfen. Sind
+unverrichteter Dinge wieder abgezogen. Findet sich die Antwort zur
+dritten Frage au&amp;szlig;erhalb oder innerhalb der Kirche?&amp;nbsp; Es war aber
+trotzdem eine sch&amp;ouml;ne Tour. Danke daf&amp;uuml;r. &lt;br /&gt;
+&lt;/p&gt;</text>
+</log>
+
+
+<log id="180215">
+	<time>2007-06-25T00:00:00Z</time>
+	<geocacher>Mokii</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Nordmann, wie du wei&amp;szlig;t habe ich den Cache neulich bei einem Spaziergang&amp;nbsp;&lt;/p&gt;&lt;p&gt; &amp;quot;begutachtet&amp;quot;.&lt;/p&gt;&lt;p&gt;Ein weiterer Ort in K&amp;ouml;ln, der unscheinbar aber dennoch sehr sehenswert ist!&lt;/p&gt;&lt;p&gt;Der neue verschl&amp;uuml;sselte Hinweis sollte allen Cachern nun helfen, hoffe ich ;)&lt;/p&gt;&lt;p&gt;Haltet die Augen auf und schaut euch GUT um^^&amp;nbsp;&lt;/p&gt;&lt;p&gt;Der Cache ist auf jeden Fall weiterzuempfehlen!&lt;/p&gt;&lt;p&gt;Liebe Gr&amp;uuml;&amp;szlig;e,&lt;/p&gt;&lt;p&gt;Mokii&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="179187">
+	<time>2007-06-22T00:00:00Z</time>
+	<geocacher>roli_29</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Heute bei userer kleinen K&amp;ouml;lntour, wollten Jochen und ich auch diesen Cache finden. Wir haben es aber nicht ganz bis zum Micro geschafft. Nach einer halben Stunde suchen, haben wir dann abgebrochen. Dabei haben wir die erste Aufgabe noch l&amp;ouml;sen k&amp;ouml;nnen. Bei der zweiten Aufgabe haben wir auch die Buchstaben gefunden, aber wie soll man die jetzt genau welcher Wertigkeit zuordnen? Und die Information &amp;uuml;ber&amp;nbsp;eine Maria Statue konnten wir vor Ort gar nicht finden. Schade eigentlich, aber eine interessante Kirche.&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Roland&lt;/p&gt;</text>
+</log>
+
+
+<log id="179437">
+	<time>2007-06-22T00:00:00Z</time>
+	<geocacher>Diefinder</geocacher>
+	<type>Not Found</type>
+	<text>Es gibt dem Log von Roland nichts mehr hinzuzufügen. Wir haben es bedauert. &lt;br /&gt;
+&lt;br /&gt;
+Es grüßen Diefinder, Jochen</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.92848" lon="6.93005">
+	<time>2006-08-18T00:00:00Z</time>
+	<name>OC236D</name>
+	<desc>Die Uni Uhr</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=112109</url>
+	<urlname>Die Uni Uhr</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Die Uni Uhr</name>
+			<owner>Thoto</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Virtual</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false"></summary>
+			<description html="true">&lt;p&gt;&lt;font face=&quot;comic sans, verdana, helvetica, arial, sans-serif&quot; size=&quot;+1&quot;&gt;
+An den angegebenen Koordinaten hast Du einen guten Blick auf die große Uhr der Uni Köln. Sie ist wahrlich sehenswert.
+Neben der Zeit zeigt sie die aktuellen Sonnenaufgangs- und Sonnenuntergangszeiten sowie das aktuelle Sternzeichen. Darüber hinaus
+besitzt sie einen Mondkalender. Natürlich verfügt sie auch über einige Glocken. Wie viele sind es? Maile mir die Anzahl und Du darfst den Cache loggen!
+&lt;/font&gt;&lt;/p&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="389335">
+	<time>2008-12-10T00:00:00Z</time>
+	<geocacher>JOJEVA</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Danke f&amp;uuml;r die rasche Logfreigabe.&lt;/p&gt;&lt;p&gt;Gr&amp;uuml;&amp;szlig;e an den Owner&lt;/p&gt;&lt;p&gt;Jochen &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="384202">
+	<time>2008-11-27T00:00:00Z</time>
+	<geocacher>FORN</geocacher>
+	<type>Found</type>
+	<text>Dieser Cache brachte mich in mein lang vergangenes Unileben zur&amp;uuml;ck. Danke f&amp;uuml;r die schnelle Logfreigabe.&lt;br /&gt;</text>
+</log>
+
+
+<log id="383142">
+	<time>2008-11-21T00:00:00Z</time>
+	<geocacher>Surfinvader</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Immer wieder sch&amp;ouml;n als Lindenthaler was neues in seinem Veedel zu entdecken! Danke Thoto!&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-surprised.gif&quot; border=&quot;0&quot; alt=&quot;Surprised&quot; title=&quot;Surprised&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="375536">
+	<time>2008-11-10T00:00:00Z</time>
+	<geocacher>The Wild Bunch</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Danke f&amp;uuml;r die Log- Freigabe; man muss nicht unbedingt f&amp;uuml;r das Loggen dagewesen sein!&lt;/p&gt;&lt;p&gt;Ein Besuch lohnt sich dennoch.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;The Wild Bunch &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="371316">
+	<time>2008-11-02T00:00:00Z</time>
+	<geocacher>Waldgeister1</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;War diesmal nicht da, aber fr&amp;uuml;her sehr oft. Daher gings dann ganz flott.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die Waldgeister1&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="360190">
+	<time>2008-10-09T00:00:00Z</time>
+	<geocacher>LittleLink</geocacher>
+	<type>Found</type>
+	<text>Gerade heute bei Sonnenschein und Herbstlaub ein lohnender Besuch!&lt;br /&gt;</text>
+</log>
+
+
+<log id="342026">
+	<time>2008-08-24T00:00:00Z</time>
+	<geocacher>die_schnuffels</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Eine&amp;nbsp;sch&amp;ouml;ne Uhr. Gut l&amp;ouml;sbarerer Cache - auch wenn man nicht vor Ort ist. Vielen Dank f&amp;uuml;r die Mail. &lt;/p&gt;&lt;p&gt;die_schnuffels&lt;/p&gt;</text>
+</log>
+
+
+<log id="332267">
+	<time>2008-07-27T00:00:00Z</time>
+	<geocacher>Schwarze Zora</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Da wohnt man gleich nebenan, f&amp;auml;hrt tausendmal daran vorbei, und schaut es sich nie so genau an. Aber dank des Caches haben wir es uns diesmal sehr genau angeschaut, wirklich sch&amp;ouml;n. Und danke f&amp;uuml;r die Schnelle loggerlaubnis. &lt;/p&gt;&lt;p&gt;Gru&amp;szlig; die Schwarze Zora mit Anhang.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="327399">
+	<time>2008-07-21T00:00:00Z</time>
+	<geocacher>DokkterBob</geocacher>
+	<type>Found</type>
+	<text>Bisher nur von weitem gesehen - aber wirklich sch&amp;ouml;n, ein Besuch lohnt sich. Danke f&amp;uuml;r die schnelle Logfreigabe - TFTC</text>
+</log>
+
+
+<log id="324128">
+	<time>2008-07-13T00:00:00Z</time>
+	<geocacher>awiline</geocacher>
+	<type>Found</type>
+	<text>Eine sch&amp;ouml;ne Uhr - habe sie bisher nur von weitem gesehen. Aber ich komme bestimmtbald nochmal daran vorbei...&lt;br /&gt;</text>
+</log>
+
+
+<log id="311740">
+	<time>2008-06-09T00:00:00Z</time>
+	<geocacher>Fliegenfischer</geocacher>
+	<type>Found</type>
+	<text>&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; width=&quot;100%&quot; height=&quot;100%&quot; id=&quot;HB_Mail_Container&quot;&gt;&lt;tbody&gt;&lt;tr width=&quot;100%&quot; height=&quot;100%&quot;&gt;&lt;td id=&quot;HB_Focus_Element&quot; width=&quot;100%&quot; height=&quot;250&quot; valign=&quot;top&quot;&gt;&lt;p&gt;Nach dem gehobenen Uni-Micro noch schnell mal bei der Uniuhr vorbeigeschau.&lt;/p&gt;&lt;p&gt;Danke Thorsten f&amp;uuml;r die schnelle Logfreigabe&lt;/p&gt;&lt;p&gt;Gruss Hans&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td height=&quot;1&quot; style=&quot;font-size: 1pt&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</text>
+</log>
+
+
+<log id="303104">
+	<time>2008-05-16T00:00:00Z</time>
+	<geocacher>sunshineprofi</geocacher>
+	<type>Found</type>
+	<text>Danke f&amp;uuml;r die schnelle Freigabe&lt;br /&gt;</text>
+</log>
+
+
+<log id="299722">
+	<time>2008-05-09T00:00:00Z</time>
+	<geocacher>Enigma7</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute w&amp;auml;hrend zwei Vorlesungen meinen ersten Cache gefunden :-)&lt;/p&gt;&lt;p&gt;&amp;nbsp;Danke f&amp;uuml;r die schnelle Freigabe &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="298968">
+	<time>2008-05-06T00:00:00Z</time>
+	<geocacher>ice13-333</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Geloggt, Danke f&amp;uuml;r die schnelle Freigabe ;)&lt;/p&gt;&lt;p&gt;Log: 13:00&lt;/p&gt;</text>
+</log>
+
+
+<log id="285044">
+	<time>2008-04-04T00:00:00Z</time>
+	<geocacher>Oschn</geocacher>
+	<type>Found</type>
+	<text>Huch!&lt;br /&gt;
+Da habe ich mir heute soviel Mühe gegeben, die Uhr zu finden - dabei habe ich den Cache schon vor mehr als einem Jahr virtuell geloggt.&lt;br /&gt;
+Habe das alte Log in eine Note umgewandelt und logge den Fund daher heute erneut. Und diesmal nach Vor-Ort-Recherche. :D  </text>
+</log>
+
+
+<log id="268813">
+	<time>2008-02-18T00:00:00Z</time>
+	<geocacher>Aragorn22</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Super Cache, hat echt Spa&amp;szlig; gemacht.&lt;/p&gt;&lt;p&gt;&amp;nbsp;Vielen Dank f&amp;uuml;r die schnelle Freigabe!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Team Aragorn22&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="269051">
+	<time>2008-02-16T00:00:00Z</time>
+	<geocacher>illo</geocacher>
+	<type>Found</type>
+	<text>Jahrelang bin ich dort t&amp;auml;glich vorbeigekommen, aber die Glocken hatte ich bislang nie gez&amp;auml;hlt.&lt;br /&gt; </text>
+</log>
+
+
+<log id="253600">
+	<time>2008-01-08T00:00:00Z</time>
+	<geocacher>Glasbläser</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;heute mittag mal eben nachgeschaut &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; liegt ja fast neben meiner Arbeitsst&amp;auml;tte &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;danke f&amp;uuml;r den Cache&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="229406">
+	<time>2007-11-12T00:00:00Z</time>
+	<geocacher>wombat</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ich muss gestehen, dass man die L&amp;ouml;sung dank dem www auch ohne pers&amp;ouml;nliche Pr&amp;auml;senz rausfinden kann. Die reale Besichtigung vor Ort findet aber noch diesen Monat statt...&lt;/p&gt;&lt;p&gt;vielen Dank&lt;/p&gt;&lt;p&gt;wombat&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="221218">
+	<time>2007-10-20T00:00:00Z</time>
+	<geocacher>Jaeger&amp;Sammler</geocacher>
+	<type>Found</type>
+	<text>Nach dem Uni-Micro haben wir uns noch diese Uhr angeschaut, die ein wenig versteckt liegt, und im dunkel haetten wir fast die Glocken nicht gesehen. &lt;br /&gt;
+Danke fuer&apos;s zeigen und die schnelle Logfreigabe&lt;br /&gt;
+J&amp;amp;S&lt;br /&gt;
+(zs, mit Eifler72)</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.91862" lon="7.02258">
+	<time>2007-01-16T00:00:00Z</time>
+	<name>OC2D55</name>
+	<desc>Im Wäldchen</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=114666</url>
+	<urlname>Im Wäldchen</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Im Wäldchen</name>
+			<owner>aXXIs262</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Regular</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">kleiner cache im Gremberger Wäldchen</summary>
+			<description html="true">Ihr tapferen Schatzsucher, mir ist zu Ohren gekommen, dass
+es in einem Wald in K&amp;ouml;ln einen Schatz zu finden g&amp;auml;be.(Parken K&amp;ouml;nnt Ihr an der oben angegebenen Koordinate) . 
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Wenn Ihr Tapfer genug seit und den Schatz finden wollt, dann
+reist zu diesem Orte:&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;N 50&amp;deg; 54.993&amp;lsquo;&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;E 007&amp;deg;01.186&amp;lsquo;&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Dort werdet Ihr auf eine Wegkreuzung treffen, in der N&amp;auml;he
+der Kreuzung werdet Ihr eine Steintafel finden.&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Wie viele Pfeile sind auf einer Seite der Tafel abgebildet? Die Anzahl
+sei (A) &lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Wie viele Kreuze sind auf einer Seite in die Tafel eingeschlagen? Deren
+Anzahl sei (B) &lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Wie viele Worte sind auf einer Seite dort eingeschlagen? Die Anzahl ist (C) &lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Nun, macht euch auf dem Weg zum Schatz.&lt;/p&gt;
+
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;N50&amp;deg; 55.(A-1)(C+A)(B-A)&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;E007&amp;deg; 01.(A-1)(C)(C-B)&lt;/span&gt;&lt;/p&gt;
+
+
+
+&lt;p class=&quot;MsoNormal&quot;&gt;Dort solltet Ihr f&amp;uuml;ndig werden und den Schatz schnell
+auswendig machen.&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;Das ist mein erster Cache den ich gesetzt habe, ich hoffe das die Koordinaten alle schl&amp;uuml;ssig sind der Cache auch ohne zu gro&amp;szlig;en Aufwand gefunden werden kann :)&lt;br /&gt; &lt;/p&gt;
+
+</description>
+			<hints>Bei einer Wurzel eines großen Baums.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="351763">
+	<time>2008-09-19T00:00:00Z</time>
+	<geocacher>aXXIs262</geocacher>
+	<type>Note</type>
+	<text>der Cache wurde von ganz netten leuten gefunden, die habe alles kaputt gemacht und liegen gelassen, sehr nett sowas :( werde einen neuen cache in der gegend legen, den diesmal hoffentlich keiner zerst&amp;ouml;rt.... </text>
+</log>
+
+
+<log id="345025">
+	<time>2008-08-31T00:00:00Z</time>
+	<geocacher>waveline</geocacher>
+	<type>Found</type>
+	<text>Heute bei herrlichem Sonnenschein gut gefunden!&amp;nbsp;&amp;nbsp;  War unser erster aber bestimmt nicht letzter Chache! Nur ist meine Freundin genau in ein dickes Spinnennest gelaufen, ihhhh.... Danke f&amp;uuml;r den sch&amp;ouml;nen Cache, INSA </text>
+</log>
+
+
+<log id="342646">
+	<time>2008-08-26T00:00:00Z</time>
+	<geocacher>Pfadfinder aus Köln</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute mal eben &amp;quot;zwischendurch&amp;quot; in der Mittagspause gesucht. Nettes W&amp;auml;ldchen und unter der Woche nicht viel los; allerdings fanden heute Forstarbeiten statt - da musste man schon aufpassen, dass einen nicht ein Baum erschl&amp;auml;gt.&lt;/p&gt;&lt;p&gt;Cache gut gefunden, aber die Box schein undicht zu sein. Das Logbuch ist ziemlich feucht - einpacken h&amp;auml;tte in dem Zustand nix gebracht.&lt;/p&gt;&lt;p&gt;Velleicht bringt der N&amp;auml;chste ein kleines Buch und als Schutz einen Gefrierbeutel mit ??&lt;/p&gt;&lt;p&gt;Hat jedenfalls Spa&amp;szlig; gemacht&lt;/p&gt;&lt;p&gt;Uwe&lt;/p&gt;</text>
+</log>
+
+
+<log id="328160">
+	<time>2008-07-20T00:00:00Z</time>
+	<geocacher>ajmobil</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Sehr sch&amp;ouml;ner kleiner Wald mitten in K&amp;ouml;ln. Gut gefunden, Cache ist allerdings schon ziemlich na&amp;szlig;.&lt;/p&gt;&lt;p&gt;Out: Stein&lt;/p&gt;&lt;p&gt;In: Schl&amp;uuml;sselband&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;, AJ u. Fam.&lt;/p&gt;</text>
+</log>
+
+
+<log id="306542">
+	<time>2008-05-25T00:00:00Z</time>
+	<geocacher>timerix</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Na, da wurde ich an der Steintafel fast von einem Hund angefallen, zu meinem Gl&amp;uuml;ck kann ich gut mit Hunden umgehen. *grummel*&lt;/p&gt;&lt;p&gt;Den Cache habe ich dann schnell gefunden, konnte das Versteck vom Weg aus schon sehen, nur loggen dauerte etwas l&amp;auml;nger, bis ich endlich unbeobachtet zuschlagen konnte.&lt;/p&gt;&lt;p&gt;&amp;nbsp;no trade, TFTC Gru&amp;szlig; Holger &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="295559">
+	<time>2008-04-30T00:00:00Z</time>
+	<geocacher>Der Buschläufer</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo aXXIs262&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cach&lt;br /&gt;&lt;br /&gt;In: Mirakulix (Plastikfigur) &amp;amp; Muschel vom Rhein&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Out: Fl&amp;auml;schchen Elchblut&amp;nbsp;&lt;/p&gt;&lt;p&gt;Der Buschl&amp;auml;ufer&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="295370">
+	<time>2008-04-29T00:00:00Z</time>
+	<geocacher>Team Eutelsat5</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute bei einem netten Spaziergang den Cache um 19:35 Uhr gehoben. Eine sehr nette Gegend. Darum besteht absolute Muggel- und Doggelgefahr dort.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;Hinweis an Besitzer: Das Logbuch ist etwas feucht.&lt;/p&gt;&lt;p&gt;Trade&lt;/p&gt;&lt;p&gt;out: Zaubererfigur&lt;/p&gt;&lt;p&gt;in: Halzkette&lt;/p&gt;</text>
+</log>
+
+
+<log id="264576">
+	<time>2008-02-09T00:00:00Z</time>
+	<geocacher>Die Drachenjäger</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute mit meinem kleinen Sohn den ersten Cache gefunden. &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;&lt;/p&gt;&lt;p&gt;Da nur sehr wenige Muggels mit ihren Vierbeinern unterwegs waren,&lt;/p&gt;&lt;p&gt;konnten wir den Cache ungehindert bergen.&amp;nbsp;&lt;/p&gt;&lt;p&gt;out : Dino Figur&lt;/p&gt;&lt;p&gt;in&amp;nbsp;&amp;nbsp; : Flaschen&amp;ouml;ffner von Coca Cola&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die Drachenj&amp;auml;ger (fr&amp;uuml;her Team fbs) &lt;/p&gt;&lt;p&gt;aus K&amp;ouml;ln&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="244279">
+	<time>2007-12-26T00:00:00Z</time>
+	<geocacher>Die7Ausrufezeichen</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wir haben heute unseren ersten Cache gefunden. Die beiden Ausrufezeichen Bianca und Daniel waren leider nicht dabei, daf&amp;uuml;r aber Oma Hanne und Opa Horst.&lt;/p&gt;&lt;p&gt;Das Wetter war zwar nicht so super, aber das macht uns ja nix. Wir sind einfach Steffen gefolgt - quer durch den Wald - und haben uns nicht an die Wege gehalten. Nele hat dann den Cache als erste entdeckt.&lt;/p&gt;&lt;p&gt;in: &amp;quot;Elchblut&amp;quot;&lt;/p&gt;&lt;p&gt;out: LKW&lt;/p&gt;</text>
+</log>
+
+
+<log id="254769">
+	<time>2007-10-27T00:00:00Z</time>
+	<geocacher>The Wild Bunch</geocacher>
+	<type>Found</type>
+	<text>Da wohne ich schon seit 24 Jahren in der Gegend und bin jetzt erst in dieses schöne Wäldchen gekommen. &lt;br /&gt;
+TFTC&lt;br /&gt;
+TNLN&lt;br /&gt;
+&lt;br /&gt;
+Weil ich meinen ersten  Cache am 14.01.2007 gefunden habe, aber erst seit dem 26.12.2007 in diesem Forum registriert bin und ich jetzt ein wenig Zeit habe, mache ich mich jetzt dran, meine geloggten Caches jetzt mal einzutragen. Ich hoffe das geht in Ordnung.&lt;br /&gt;
+&lt;br /&gt;
+The Wild Bunch</text>
+</log>
+
+
+<log id="223246">
+	<time>2007-10-19T00:00:00Z</time>
+	<geocacher>pica8</geocacher>
+	<type>Found</type>
+	<text>#294#&lt;br /&gt;
+Das war ein netter Spaziergang durchs Wäldchen. Schade nur, dass der Wald durch Schienen und viele Straßen in so kleine Stücke zerhackt ist. Die Stationen haben wir gut gefunden und die Aufgaben ohne Probleme lösen können. An der letzten Station konnten wir uns dann vor dem Regen in Sicherheit bringen und hoben den Cache dann in Dunkelheit und leichtem Regen.&lt;br /&gt;
+In: Auto&lt;br /&gt;
+Out: Korkenzieher&lt;br /&gt;
+Danke und Gruß&lt;br /&gt;
+Annette (pica8) unterwegs mit Joshi und Mapa</text>
+</log>
+
+
+<log id="188713">
+	<time>2007-07-26T00:00:00Z</time>
+	<geocacher>Poseidons4711</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Aufgrund guter Ortskenntnis in diesem Gebiet schnell und problemlos gefunden.&lt;/p&gt;&lt;p&gt;Ein sch&amp;ouml;ner Cache in der nahen Umgebung!&lt;/p&gt;&lt;p&gt;Danke sagen die Poseidons4711&lt;/p&gt;&lt;p&gt;&amp;nbsp;In: Modellauto&lt;/p&gt;&lt;p&gt;Out: Schl&amp;uuml;sselband&lt;/p&gt;</text>
+</log>
+
+
+<log id="167371">
+	<time>2007-05-17T00:00:00Z</time>
+	<geocacher>Korse</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Das Gremberger W&amp;auml;ldchen kenne ich In- und Auswendig, daher war das auffinden der ersten Station nicht zu schwer. Jedoch war es nicht so einfach, den Fundort zu finden, da das &amp;quot;Laubdach&amp;quot; mittlerweile so dicht ist, das es auf den letzten Metern SAT-Probleme gab. Aber dennoch gefunden (bei was man beim Joggen - ohne GPS/Navi - so alles vorbei l&amp;auml;uft).&lt;/p&gt;&lt;p&gt;Ein sehr reichhaltiger Cache!!!&lt;/p&gt;&lt;p&gt;&amp;nbsp;LG&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Out: Taschen-/W&amp;auml;hrungsrechner (Mein Sohn wollte ihn unbedingt)&lt;/p&gt;&lt;p&gt;In: Reinigungsset f&amp;uuml;r Autoscheibe(n)&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="182423">
+	<time>2007-05-12T00:00:00Z</time>
+	<geocacher>derfrank</geocacher>
+	<type>Found</type>
+	<text>Sehr schöne, stimmige Runde.&lt;br /&gt;
+Gut zu laufen mit einer Maus auf meiner Cachebox :-)&lt;br /&gt;
+&lt;br /&gt;
+TFTC&lt;br /&gt;
+&lt;br /&gt;
+Terror &amp;amp; Amok&lt;br /&gt;
+&lt;br /&gt;
+In: Coin&lt;br /&gt;
+Out: nix&lt;br /&gt;
+&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="157237">
+	<time>2007-04-13T00:00:00Z</time>
+	<geocacher>Sternfinder</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Das war der erste Cache, den ich gefunden hab.&lt;/p&gt;&lt;p&gt;Der Baum hat im Sturm stark gelitten.&lt;/p&gt;&lt;p&gt;Out: nix&lt;/p&gt;&lt;p&gt;In: Schl&amp;uuml;sselkarabiner&lt;/p&gt;</text>
+</log>
+
+
+<log id="150380">
+	<time>2007-03-16T00:00:00Z</time>
+	<geocacher>roli_29</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ein sch&amp;ouml;ner, kleiner Multi, der schnell zu finden war. Das Gebiet ist mir nicht unbekannt und somit konnte ich die Cachekoordinate schon zu Hause errechnen.&lt;/p&gt;&lt;p&gt;Vielen Dank f&amp;uuml;r den Cache!&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Roland&lt;/p&gt;</text>
+</log>
+
+
+<log id="150428">
+	<time>2007-03-16T00:00:00Z</time>
+	<geocacher>Diefinder</geocacher>
+	<type>Found</type>
+	<text>Mittlerweilen finden wir den Parkplatz im Schlaf[;)] und kennen das Wäldchen bald besser als die eigene Wohnung. &lt;br /&gt;
+&lt;br /&gt;
+No trade&lt;br /&gt;
+&lt;br /&gt;
+Es danken und grüßen Diefinder, Jochen&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="141310">
+	<time>2007-01-28T00:00:00Z</time>
+	<geocacher>huddelbuett</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;12:45, #176.&lt;/p&gt;&lt;p&gt;Jetzt mit Spoiler ist er igelsicher zu bergen. Die pennen n&amp;auml;mlich nebenan.&lt;/p&gt;&lt;p&gt;Der Cache ist innen trocken. Die T&amp;uuml;te l&amp;ouml;st sich allerdings auf und der au&amp;szlig;en auf der Dose angebrachte Hinweis ist patschna&amp;szlig;.&lt;/p&gt;&lt;p&gt;Der hier nicht geloggte erste Eintrag im Logbuch kommt von einem Olli oder Oli (habe ich vergessen), der den Cache um 22:30 Uhr an unbekanntem Datum geloggt hat.&lt;/p&gt;&lt;p&gt;TFTC, Gru&amp;szlig;, Wolfgang. &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="141321">
+	<time>2007-01-28T00:00:00Z</time>
+	<geocacher>aXXIs262</geocacher>
+	<type>Note</type>
+	<text>jo das iss ein bekannter von mir, dem hatte ich die cachebeschreibung mal gegeben, er hat es wohl direkt gesucht :) </text>
+</log>
+
+
+<log id="139838">
+	<time>2007-01-21T00:00:00Z</time>
+	<geocacher>aXXIs262</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Sry... &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;ds ada ein Igel schl&amp;auml;ft hatte ich gar nicht gesehen... aber im Wald sieht&amp;#39;s schon verheerend aus! h&amp;auml;tte nicht gedacht das es so schlimm ist...  &lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.92435" lon="6.93297">
+	<time>2007-02-06T00:00:00Z</time>
+	<name>OC2E5B</name>
+	<desc>Uni-Werkstätten</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=114928</url>
+	<urlname>Uni-Werkstätten</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Uni-Werkstätten</name>
+			<owner>Glasbläser</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>2.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Filmdose bei einer Werkstatt</summary>
+			<description html="true">&lt;p&gt;Hiermit will ich euch mal eine der Werkst&amp;auml;tten der Universit&amp;auml;t zu K&amp;ouml;ln vorstellen, dessen Berufszweig in Deutschland nicht so h&amp;auml;ufig zu finden ist&amp;nbsp;  &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;hier wird ein &amp;quot;Stoff&amp;quot; verarbeitet, der struckturm&amp;auml;&amp;szlig;ig einer Fl&amp;uuml;ssigkeit &amp;auml;hnelt, deren Z&amp;auml;higkeit bei normaler Umgebungstemparatur aber so hoch ist, da&amp;szlig; er als fester K&amp;ouml;rper anzusprechen ist. Im engeren Sinne wird der Begriff &amp;quot;......&amp;quot; f&amp;uuml;r alle anorganischen Verbindungen angewendet, die diese Grundeigenschaften besitzen.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;bitte einen Stift selber mitbringen.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Nachtrag:&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Leider wird diese &amp;Ouml;rtlichkeit von den Studenten offt als M&amp;uuml;llabladeplatz betrachtet &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-yell.gif&quot; border=&quot;0&quot; alt=&quot;Yell&quot; title=&quot;Yell&quot; /&gt; f&amp;uuml;r die Mitarbeiter dieser Werkstatt (besetzt von 8.00-16.30 Uhr) ist das bestimmt kein sch&amp;ouml;ner Anblick &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cry.gif&quot; border=&quot;0&quot; alt=&quot;Cry&quot; title=&quot;Cry&quot; /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;gleiche Koordinaten andere Stelle &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; von hier hat man auch einen excellenten Blick auf die Arbeiten die dort erledigt werden (dort steht man nicht im M&amp;uuml;ll) und der Cache l&amp;auml;st sich schnell und ohne Aufsehen bergen &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt; &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
+			<hints>darauf laufen die Hände ;-)</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="388224">
+	<time>2008-12-08T00:00:00Z</time>
+	<geocacher>FORN</geocacher>
+	<type>Found</type>
+	<text>Diesen Cache habe ich an einem Sontag gelogged, weil unter der Woche hier doch ziemlich viel los ist. Mal schauen, wie lange die Dose an dieser Stelle bleibt. TFTC.&lt;br /&gt;</text>
+</log>
+
+
+<log id="383132">
+	<time>2008-11-22T00:00:00Z</time>
+	<geocacher>Surfinvader</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Juhu! gefunden! (Im 2ten Anlauf).&lt;/p&gt;&lt;p&gt;Fast &amp;uuml;ber einen Clochrad gestolpert...&lt;/p&gt;</text>
+</log>
+
+
+<log id="368209">
+	<time>2008-10-26T00:00:00Z</time>
+	<geocacher>BigLink</geocacher>
+	<type>Found</type>
+	<text>Nach kurzer Suche 14:40 Uhr sicher zugegriffen. TFTC </text>
+</log>
+
+
+<log id="368217">
+	<time>2008-10-26T00:00:00Z</time>
+	<geocacher>LittleLink</geocacher>
+	<type>Found</type>
+	<text>Kurz gesucht und gerne gefunden TFTC 14:40 Uhr&lt;br /&gt;</text>
+</log>
+
+
+<log id="292503">
+	<time>2008-04-22T00:00:00Z</time>
+	<geocacher>diets23</geocacher>
+	<type>Found</type>
+	<text>Mein erster Fund :o) &lt;br /&gt;
+Hat Spaß gemacht. &lt;br /&gt;
+Ach ja: das Logbuch ist voll, nur zur Info an Glasbläser &lt;br /&gt;
+</text>
+</log>
+
+
+<log id="291072">
+	<time>2008-04-20T00:00:00Z</time>
+	<geocacher>mirko1</geocacher>
+	<type>Found</type>
+	<text>war mein erster cache&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;,nicht schwer zu finden.</text>
+</log>
+
+
+<log id="291076">
+	<time>2008-04-20T00:00:00Z</time>
+	<geocacher>elbeskoj</geocacher>
+	<type>Found</type>
+	<text>auch mein erster cache, gemeinschaftsfund mit mirko1 :-)</text>
+</log>
+
+
+<log id="267278">
+	<time>2008-02-16T00:00:00Z</time>
+	<geocacher>illo</geocacher>
+	<type>Found</type>
+	<text>Damit haben wir uns etwas schwer getan, aber mit etwas Intuition hat es dann doch geklappt. Zum Gl&amp;uuml;ck war es hier trotz Flohmarkt 100m weiter ganz ruhig.&lt;br /&gt;</text>
+</log>
+
+
+<log id="239578">
+	<time>2007-12-09T00:00:00Z</time>
+	<geocacher>BikerTomKoeln</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;huhu, heute rasch gefunden, aber keine arbeiter weit und breit :-(&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;wen wunderst am sonntagnachmittag ;-)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;allerdings sollten die studenten hier mal ordentlich aufr&amp;auml;umen und den m&amp;uuml;ll entsorgen :-(&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="236291">
+	<time>2007-11-30T00:00:00Z</time>
+	<geocacher>moescha</geocacher>
+	<type>Found</type>
+	<text>Is noch da! Gestern gefunden, nach der Vorlesung. </text>
+</log>
+
+
+<log id="176053">
+	<time>2007-06-09T00:00:00Z</time>
+	<geocacher>muhpISTen</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Wir haben den w&amp;auml;hrend eines Abstechers vom Kirchentag gesucht. Eigentlich waren wir der Meinung die meisten M&amp;ouml;glichkeiten abgesucht zu haben. Vermutlich &amp;uuml;bersehen in aller Eile. Kommen auch leider so bald nicht wieder nach K&amp;ouml;ln.&lt;/p&gt;&lt;p&gt;Hoffentlich ist er noch da, falls nicht w&amp;uuml;rdes uns mal interessieren.&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="167225">
+	<time>2007-05-17T00:00:00Z</time>
+	<geocacher>Scherlok und Watt-Sohn</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Klasse Versteck, schwer zu finden. Wir waren die 7ten.&lt;/p&gt;&lt;p&gt;&amp;nbsp;Dank und Gru&amp;szlig;&lt;/p&gt;&lt;p&gt;&amp;nbsp;Scherlok &amp;amp; Wott-Sohn&lt;/p&gt;</text>
+</log>
+
+
+<log id="160663">
+	<time>2007-04-25T00:00:00Z</time>
+	<geocacher>UteHans</geocacher>
+	<type>Found</type>
+	<text>Im Zuge der Suche nach Geomuseum (GC116E6) haben wir auch noch die &apos;Arbeiter&apos; beobachtet. Leider war dann plötzlich Vorlesungspause, so dass wir um 16.40 Uhr den Cache sicherheitshalber erst mal mitnehmen und abseits loggen mussten. Hoffentlich hat da nicht gerade noch jemand gesucht...&lt;br /&gt;
+Danke sagen Ute und Hans</text>
+</log>
+
+
+<log id="177710">
+	<time>2007-04-17T00:00:00Z</time>
+	<geocacher>07caja</geocacher>
+	<type>Found</type>
+	<text>Sch&amp;ouml;ner Cache - schnell gefunden.&lt;br /&gt;07CaJa</text>
+</log>
+
+
+<log id="155813">
+	<time>2007-04-09T00:00:00Z</time>
+	<geocacher>nordmann</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Um diese Uhrzeit war nicht mehr viel los ( 1:00 ).&lt;/p&gt;&lt;p&gt;Ohne den Hinweis h&amp;auml;tten wir warscheinlich etwas l&amp;auml;nger gesucht.&lt;/p&gt;&lt;p&gt;Aber letztendlich konnten wir ihn dennoch finden.&lt;/p&gt;&lt;p&gt;Sch&amp;ouml;nes Versteck.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;&lt;p&gt;Nordmann&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="155828">
+	<time>2007-04-09T00:00:00Z</time>
+	<geocacher>Mokii</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Meinen Respekt! Erstmal muss man auf so eine Idee kommen ;)&lt;/p&gt;&lt;p&gt;&amp;nbsp;War bisher unser schwerster.&lt;/p&gt;&lt;p&gt;Hat aber sehr viel Spa&amp;szlig; gemacht.&lt;/p&gt;&lt;p&gt;Heut Nacht per Teamwork mit Nordmann gefunden.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache!&lt;/p&gt;&lt;p&gt;&amp;nbsp;LG&amp;nbsp;&lt;/p&gt;&lt;p&gt;Mokii&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="152988">
+	<time>2007-03-29T00:00:00Z</time>
+	<geocacher>Diefinder</geocacher>
+	<type>Found</type>
+	<text>Auf dem Weg zu einem falschen Cacheplatz (wer sich mit Quersummen auskennt usw....)   kamen wir hier auch vorbei. Um diese Zeit war es schon sehr ruhig hier. Schnell entdeckt.&lt;br /&gt;
+&lt;br /&gt;
+Es danken und grüßen Diefinder, Jochen&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="152952">
+	<time>2007-03-28T00:00:00Z</time>
+	<geocacher>roli_29</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute gemeinsam mit Jochen den Micro gut gefunden. Hier war am Abend nix mehr los, so konnten wir ungest&amp;ouml;rt loggen.&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache!&lt;/p&gt;&lt;p&gt;Gru&amp;szlig; Roland&lt;/p&gt;</text>
+</log>
+
+
+<log id="142824">
+	<time>2007-02-08T00:00:00Z</time>
+	<geocacher>Thoto</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt; &lt;strong&gt;FTF &lt;/strong&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Heute mal einen kleinen Abstecher zur alten Wirkungsst&amp;auml;tte gemacht. In dem Geb&amp;auml;ude hatte ich schon Vorlesung &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; /&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Vielen Dank f&amp;uuml;r den Cache, der sich trotz zahlreicher Muggles gut heben lie&amp;szlig;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Thoto&amp;nbsp;&lt;/font&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="142637">
+	<time>2007-02-06T00:00:00Z</time>
+	<geocacher>swg62</geocacher>
+	<type>Note</type>
+	<text>Um 15:00 Uhr war ein Hebung der Dose nicht zu denken. Aus der Werkstatt be&amp;auml;ugten einen viele Muggels, die vor ihren Bunsenbrennern sa&amp;szlig;en.&amp;nbsp;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Viel unangenehmer ist, da&amp;szlig; die Cachelocation total verm&amp;uuml;llt ist.&lt;/div&gt;&lt;div&gt;Den Cache werden wir wahrscheinlich nicht mehr heben.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Gru&amp;szlig;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div style=&quot;text-align: -khtml-left&quot;&gt;&lt;span style=&quot;color: #008000; font-size: 13px; font-weight: bold; line-height: 21px&quot; class=&quot;Apple-style-span&quot;&gt;SWG62 und Eva&lt;/span&gt;&lt;/div&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.91458" lon="6.97213">
+	<time>2008-09-04T00:00:00Z</time>
+	<name>OC661E</name>
+	<desc>Technik trifft Ästhetik </desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=129208</url>
+	<urlname>Technik trifft Ästhetik </urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Technik trifft Ästhetik </name>
+			<owner>illo</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.5</terrain>
+			<summary html="false">Hochwasserpumpwerk</summary>
+			<description html="true">&lt;p&gt;Mit &amp;quot;Technik trifft &amp;Auml;sthetik&amp;quot; &lt;a href=&quot;http://www.rundschau-online.de/html/artikel/1214582719173.shtml&quot;&gt;titelte&lt;/a&gt; eine K&amp;ouml;lner Tageszeitung zur Fertigstellung dieses Pumpwerks im Rahmen der Hochwasserschutzma&amp;szlig;nahmen.&lt;/p&gt;&lt;p&gt;&amp;quot;Dem Architekt Kaspar Kraemer ... ist es gelungen, die Geb&amp;auml;udemasse des Tiefbauteils, die eigentliche Pumpanlage, durch eine geschwungene, mit Basaltlavasteinen gest&amp;uuml;tzte Formung des Gel&amp;auml;ndes harmonisch in die Uferlandschaft einzubetten.&lt;/p&gt;&lt;p&gt;Das oberirdische, mit einem Metallgitterrost umkleidete Bauwerk setzt sich als sichtbares Zeichen kontrastierend auf diese &amp;bdquo;Bodenwelle&amp;ldquo; und bildet gemeinsam mit ihr eine echte &amp;bdquo;Landmarke&amp;ldquo;. Der obere Geb&amp;auml;udeteil wird je nach Wasserstand des Rheins in unterschiedlichen Farbt&amp;ouml;nen illuminiert. Die eigentliche Aufgabe des Pumpwerkes ist es, bei Hochwasser die Ableitungen aus den abgeschieberten Kan&amp;auml;len abzupumpen.&amp;quot;&lt;/p&gt;&lt;p&gt;Wegen der Illumination empfehle ich diesen Cache erst nach D&amp;auml;mmerung anzugehen. Bitte loggt auch die Lichtfarbe online.&lt;/p&gt;&lt;p&gt;Der Cache ist mit der Stra&amp;szlig;enbahnlinie 16, zu Fu&amp;szlig; und mit dem Fahrrad gut zu erreichen. Inliner, Kinderwagen und Rollis werden die letzten Meter erhebliche Schwierigkeiten haben. Bitte &amp;uuml;berquert die Gleise nur an der vorgesehenen Stelle!&lt;/p&gt;</description>
+			<hints>überkopfhoch und fusstief</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="367804">
+	<time>2008-10-26T00:00:00Z</time>
+	<geocacher>FORN</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Diesen Cache heute (leider vor D&amp;auml;mmerungsbeginn, trotz Zeitumstellung) als Bonus zu einem GC-Mystery gefunden. TFTC.&lt;/p&gt;&lt;p&gt;out: Geokrety (mein erster)&lt;/p&gt;&lt;p&gt;in: Jojo, Haifisch&lt;/p&gt;</text>
+</log>
+
+
+<log id="366329">
+	<time>2008-10-23T00:00:00Z</time>
+	<geocacher>illo</geocacher>
+	<type>Note</type>
+	<text>Cachekontolle: Alles OK.</text>
+</log>
+
+
+<log id="356982">
+	<time>2008-10-03T00:00:00Z</time>
+	<geocacher>Fangnixde</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute 03/10/08 ,10:40 Uhr&amp;nbsp;gefunden.&lt;/p&gt;&lt;p&gt;Somit keine Illumination gesehen. Sorry.&lt;/p&gt;&lt;p&gt;Aber Danke f&amp;uuml;r den sch&amp;ouml;nen Cache.&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-smile.gif&quot; border=&quot;0&quot; alt=&quot;Smile&quot; title=&quot;Smile&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="352097">
+	<time>2008-09-20T00:00:00Z</time>
+	<geocacher>eifelwanderung</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Jetzt liegt der schon so lange hier und wurde noch nicht gefunden. Also mal eben gehoben. 15:00 Uhr, naja, die Illumination war blau, auf jeden Fall schimmerte der Himmel durch die Technik &lt;/p&gt;&lt;p&gt;no trade&lt;/p&gt;&lt;p&gt;--&amp;nbsp;&lt;/p&gt;&lt;p&gt;www.eifelwanderung.info &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.89545" lon="6.97212">
+	<time>2008-05-28T00:00:00Z</time>
+	<name>OC5C8A</name>
+	<desc>Der Parkcache</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=126755</url>
+	<urlname>Der Parkcache</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Der Parkcache</name>
+			<owner>t.sieler</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Small</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Im schönen Villengebiet - aber geschützt im Grünen</summary>
+			<description html="true">&lt;p&gt;Geh zu den angegebenen Koordinaten, dort stehen gro&amp;szlig;e Metallboxen, auf den steht eine Kontaktnummer, diese Nummer schreib dir auf, sie wirst du noch gebrauchen. Dann geh in den Park -achtung - durch den n&amp;auml;chsten Eingang. Geh zum diametralen Ende des Parks und dort h&amp;auml;ngt ein kleines gelbes &amp;uuml;ber den K&amp;ouml;pfen, dort notier dir ebenfalls alle Zahlen, aber nur die vom gelben. Nun bestimm einfach die quersumme aller zahlen, also addier jede ziffer, dies ist dein schl&amp;uuml;ssel&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die Koordinaten des Ziels sind damit&lt;/p&gt;&lt;p&gt;50&amp;deg; 53,X Nord und 06&amp;deg; 58,Y Ost&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;dabei steht X f&amp;uuml;r: 110*Schl&amp;uuml;sselzahl - 364&lt;/p&gt;&lt;p&gt;und Y f&amp;uuml;r 35*Schl&amp;uuml;sselzahl - 45 &amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Dort befindet sich ein in echt springender punkt. dort hinter ist er!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Viel spa&amp;szlig; beim suchen!!&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;PS: Bitte wieder ordentlich hinterlassen, damit mehrere&amp;nbsp; Leute freude dran haben!&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;PPS: Da ich doch jetzt von einigen Beschwerden &amp;uuml;ber die ungenauigkeit der Koordinaten bekommen habe, werd ich ihn in den n&amp;auml;chsten Tagen neu einmessen, die Ungenauigkeit st&amp;ouml;rt aber nicht wirklich beim Suchen, denn wenn ihr an der Stelle steht, wohin die Koordinaten zeigen, dann guckt euch um, was da so besonderes ein in &amp;quot;echt springender Punkt&amp;quot;. Dann wird das schon! &lt;br /&gt;&lt;/p&gt;</description>
+			<hints>Der Schluessel ist zwischen 60 und 80 und der cache ist eine filmdose.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="326862">
+	<time>2008-07-19T00:00:00Z</time>
+	<geocacher>gissinger</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Laut Logbuch bin ich nicht der erste, aber offenbar der erste, der sich hier eintr&amp;auml;gt!&lt;/p&gt;&lt;p&gt;Ein sehr sch&amp;ouml;ner Cache, der quer durch das Villenviertel von K&amp;ouml;ln f&amp;uuml;hrt. Gut gemacht.&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="50.91642" lon="6.86758">
+	<time>2008-02-10T00:00:00Z</time>
+	<name>OC5135</name>
+	<desc>TOYOTA DriveIn #1 </desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=123851</url>
+	<urlname>TOYOTA DriveIn #1 </urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>TOYOTA DriveIn #1 </name>
+			<owner>WingMan1981</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Regular</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">*** Cache direkt an der TOYOTA Deutschland Zentrale in Köln für alle TOYOTA Fans ***</summary>
+			<description html="true">&lt;p&gt;&lt;font size=&quot;4&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;F&amp;auml;hrst du einen TOYOTA? Interessierst Du Dich f&amp;uuml;r den weltgr&amp;ouml;&amp;szlig;ten Automobilherstller der Welt TOYOTA? Bist Du ein regelrechter TOYOTA Fan? Wenn Du alle 3 Fragen mit JA beantworten kannst, dann ist dieser Cache ein MUSS f&amp;uuml;r Dich.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;Der schnelle, aber vor allem f&amp;uuml;r TOYOTA-Fans sehr interessante Cache f&amp;uuml;hrt Euch direkt zur TOYOTA Deutschland Zentrale nach K&amp;ouml;ln. In der sogenannten Toyota-Allee befindet sich die TOYOTA und LEXUS Hauptverwaltung, die TOYOTA Kreditbank, die TOYOTA Leasing, das TOYOTA Schulungszentrum sowie das TOYOTA Formel 1 Werk.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;*** Ich empfehle Euch den Cache am Wochenende oder auserhalb der Arbeitszeiten zu suchen da Ihr ansonsten auf sehr viele Muggles trefft. Am Wochenende (vor allem am Sonntag) k&amp;ouml;nnt Ihr den TOYOTA Komplex am besten und vor allem st&amp;ouml;rungsfrei geniesen !!!. Ach ja...die TOYOTA Allee ist eine ganz normale Stra&amp;szlig;e, kein Privatgel&amp;auml;nde...Ihr k&amp;ouml;nnt also ohne schlechts Gewissen die Stra&amp;szlig;e befahren***&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Kleine Zusatzinformation zum Cache:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;2&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;An Sonntag morgen, den 10.02.08, habe ich so ein bisschen durch Google-Earth geklickt, und beim Blick &amp;uuml;ber das Toyota Gel&amp;auml;nde in K&amp;ouml;ln ist mir aufgefallen, dass da nirgends in der N&amp;auml;he ein Cache platziert ist.&lt;/font&gt;&lt;/font&gt;&lt;font size=&quot;2&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt; Da wusste ich sofort, das muss ge&amp;auml;ndert werden, da das Toyota Gel&amp;auml;nde eigentlich echt sehenswert ist. Ich selbst komme
+eigentlich aus dem tiefsten Schwabenland (50Km n&amp;ouml;rdlich von Ulm), arbeite in einem Toyota Autohaus als Verk&amp;auml;ufer und bin absoluter TOYOTA-Fan geworden. Also, spontan die Tasche gepackt, das Auto vollgetankt und ab
+auf die Autobahn nach K&amp;ouml;ln. Nach 4 Stunden Fahrt bin ich dann bei Toyota angekommen. Nach kurzer Suche nach dem richtigen Versteck wurde der Cache gelegt, kurzer Stop beim McD...... und wieder 4 Stunden Fahrt nach Hause. VERR&amp;Uuml;CKT ??? Neeee....Cacher aus Leidenschaft !!!! Viel Spa&amp;szlig; beim suchen ....&amp;nbsp;&lt;/font&gt;&lt;/font&gt; &lt;font size=&quot;4&quot;&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt; &lt;/font&gt;&lt;/font&gt;&lt;/p&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="385231">
+	<time>2008-11-30T00:00:00Z</time>
+	<geocacher>FC-Cacher</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ganz sch&amp;ouml;n feucht war&amp;#39;s...&amp;nbsp;&lt;/p&gt;&lt;p&gt;Danke f&amp;uuml;r den Cache. Alles super gefunden!&amp;nbsp;&lt;/p&gt;&lt;p&gt;Die FC-Cacher&lt;/p&gt;</text>
+</log>
+
+
+<log id="383289">
+	<time>2008-11-24T00:00:00Z</time>
+	<geocacher>Surfinvader</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Brrrrr, war das gerade kalt. 2&amp;deg;C und nasse F&amp;uuml;sse! Sehr genaue Cache- Angaben. Auf der anderen Seite der Br&amp;uuml;cke habe ich fr&amp;uuml;her mal ausprobiert ob meine Flory ohne Auspuff schneller als mit ist. &lt;/p&gt;&lt;p&gt;Bei Toyota hat man da gerade den Camry eingef&amp;uuml;hrt und ich war gef&amp;uuml;hlt genau so schnell ;-) &lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://de.wikipedia.org/wiki/Toyota_Camry#Toyota_Camry_.281982.E2.80.931986.29&quot;&gt;http://de.wikipedia.org/wiki/Toyota_Camry#Toyota_Camry_.281982.E2.80.931986.29&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://de.wikipedia.org/w/index.php?title=Bild:1st_Toyota_Camry.jpg&amp;amp;filetimestamp=20071111210516&quot; title=&quot;1st Toyota Camry.jpg&quot; class=&quot;image&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/1st_Toyota_Camry.jpg/250px-1st_Toyota_Camry.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; width=&quot;250&quot; height=&quot;141&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Ach, und weils so sch&amp;ouml;n war habe ich einen UPONOR Lenyard in den Cache gelegt.&lt;/p&gt;</text>
+</log>
+
+
+<log id="376289">
+	<time>2008-11-11T00:00:00Z</time>
+	<geocacher>damn</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Schnell gefunden und geloggt.&lt;/p&gt;&lt;p&gt;&amp;nbsp;TFTC damn! &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="340865">
+	<time>2008-08-21T00:00:00Z</time>
+	<geocacher>GluePi</geocacher>
+	<type>Found</type>
+	<text>Danke für den schnellen Cache. Vor der Nachtschicht schnell gefunden, um 21:00 geloggt.&lt;br /&gt;
+&lt;br /&gt;
+Unweit von hier befindet sich auch ein GC-Cache, das TB Hotel Köln West.&lt;br /&gt;
+&lt;br /&gt;
+LG GluePi</text>
+</log>
+
+
+<log id="320236">
+	<time>2008-07-04T00:00:00Z</time>
+	<geocacher>BumbleBHE</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Obwohl ich mit einem KIA angereist bin, hab ich ihn gefunden.&lt;/p&gt;&lt;p&gt;&amp;nbsp;Spoiler: Kurz hinter der Ameisenautobahn links&amp;nbsp; :D&lt;/p&gt;&lt;p&gt;TFTC BumbleBHE&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="304566">
+	<time>2008-05-21T00:00:00Z</time>
+	<geocacher>roli_29</geocacher>
+	<type>Found</type>
+	<text>&lt;span&gt;&lt;font face=&quot;Verdana&quot; size=&quot;2&quot;&gt;Gemeinsam haben Jochen und ich einen sch&amp;ouml;nen Auto-Fahrrad-Cachetag bei bestem Geocachewetter gehabt. Die Dose war gut zu finden!&lt;/font&gt; &lt;p&gt;&lt;font face=&quot;Verdana&quot; size=&quot;2&quot;&gt;Danke f&amp;uuml;r den Cache!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot; size=&quot;2&quot;&gt;Gru&amp;szlig; Roland&lt;/font&gt;&lt;/p&gt;&lt;/span&gt;</text>
+</log>
+
+
+<log id="304882">
+	<time>2008-05-21T00:00:00Z</time>
+	<geocacher>Diefinder</geocacher>
+	<type>Found</type>
+	<text>Auf unserer heutigen langen Tagestour mit Fahrradbegleitung auch hier vorbei gekommen.&lt;br /&gt;
+&lt;br /&gt;
+Es danken und grüßen Diefinder, Jochen mit Roland auf Kölner Randbereichstour</text>
+</log>
+
+
+<log id="298177">
+	<time>2008-05-03T00:00:00Z</time>
+	<geocacher>Necoflo</geocacher>
+	<type>Found</type>
+	<text>Sehr schnell und leicht gefunden. TFTC</text>
+</log>
+
+
+<log id="294073">
+	<time>2008-04-27T00:00:00Z</time>
+	<geocacher>UteHans</geocacher>
+	<type>Found</type>
+	<text>Wenn ich mit dem Rad zum Dienst fahre, komme ich daran vorbei. Und deshalb mussten wir diesen Cach natürlich auch finden. Um 9.55 Uhr war er dann fast muggelfrei entdeckt.&lt;br /&gt;
+Danke sagen Ute und Hans</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.14083" lon="7.21362">
+	<time>2006-11-20T00:00:00Z</time>
+	<name>OC29BB</name>
+	<desc>Wermelskirchen Bürgerzentrum</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=113742</url>
+	<urlname>Wermelskirchen Bürgerzentrum</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Wermelskirchen Bürgerzentrum</name>
+			<owner>The Hawks</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Webcam</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Webcam-Cache in Wermelskirchen</summary>
+			<description html="true">Mit diesem Webcam-Cache möchten wir ein paar nette Leute in das beschauliche Dorf Wermelskirchen locken. Die Webcam steht auf dem Bürgerzentrum und schaut auf die Telegrafenstraße.&lt;br /&gt;
+&lt;br /&gt;
+Am Besten schaut ihr euch das Webcam-Bild einmal genau an oder druckt es aus, bevor ihr euch auf den Weg zum Ort macht. Um den Cache zuloggen, müsst ihr euch auf dem gemachten Bild eindeutig zu erkennen geben, indem ihr euch aus der Tür einer der Telefonzellen lehnt und euren Arm mit GPS-Gerät weit von euch streckt.&lt;br /&gt;
+&lt;br /&gt;
+Die Webcam aktualisiert jede Minute. Natürlich müsst ihr jemanden haben, der das Bild zu Hause herunterlädt und für euch speichert. Danach hängt ihr es wie üblich an euren Logeintrag an.&lt;br /&gt;
+&lt;br /&gt;
+Link zur Webcam: http://www.wermelskirchen.de/stadt/vermischtes/webcam.php&lt;br /&gt;
+&lt;br /&gt;
+Wir wissen, dass virtuelle Caches und Webcam-Caches von einigen Cachern verschmäht werden. Deshalb weisen wir hier noch einmal darauf hin, dass dieser Cache, wie jeder andere auch, ein Angebot ist und keiner gezwungen wird, ihn zu loggen.&lt;br /&gt;
+&lt;br /&gt;
+Darüberhinaus kann dieser Webcamcache jetzt auch ohne Heimunterstützung geloggt werden. Auf unserem Server wird jede Minute das aktuelle Webcambild gespeichert. Da her ist es möglich, sich 1-2 Minuten an die entsprechende Stelle zu stellen, und das Foto später herunterzuladen. Das Webcamarchiv findet ihr hier: http://www.the-hawks.de.ms/own/webcamarchive/wkr_buergerzentrum . Da auch wir nur eine begrenzte Menge an Speicherplatz haben, behalten wir nur Bilder der letzten drei Tage!&lt;br /&gt;
+&lt;br /&gt;
+Es sieht so aus, als würde die Kamera zwischen 23 Uhr und 7 Uhr abgeschaltet. Wir empfehlen daher, diese Zeitspanne zu meiden.&lt;br /&gt;
+&lt;br /&gt;
+In diesem Sinne wünschen wir euch viel Spaß!&lt;br /&gt;
+&lt;br /&gt;
+The Hawks</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="328985">
+	<time>2008-07-24T00:00:00Z</time>
+	<geocacher>peterw-tal</geocacher>
+	<type>Found</type>
+	<text>Die Gegend sieht durch den Umbau momentan doch etwas anders aus als auf den bisherigen Bildern. &lt;br /&gt;
+Heute mal an die Telefonzelle gelehnt und das GPS über den Kopf gehalten,&lt;br /&gt;
+ganz zum Erstaunen der Eisdielenbesucher.Cacher sind doch irgendwie seltsam.&lt;br /&gt;
+Der angegebene link zum webcamarchiv ist zwar tot, aber es geht auch ohne!&lt;br /&gt;
+Grüße v.PeterW-tal und Dank an ElAchimo für den Support.&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="257762">
+	<time>2008-01-19T00:00:00Z</time>
+	<geocacher>geschild</geocacher>
+	<type>Note</type>
+	<text>&lt;p&gt;Der obige link hat bei mir nicht funktioniert.&lt;/p&gt;&lt;p&gt;Stattdessen habe ich den folgenden gefunden:&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://live.wermelskirchen.de/tourismus/webcam/webcam.php&quot;&gt;http://live.wermelskirchen.de/tourismus/webcam/webcam.php&lt;/a&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="181496">
+	<time>2007-07-01T00:00:00Z</time>
+	<geocacher>Bergische Rennschnecke</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Heute, beim zweiten Anlauf, hat die Webcam funktioniert. Hat prima geklappt.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Danke f&amp;uuml;r den Cache!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Gru&amp;szlig;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot; size=&quot;2&quot;&gt;Simone&amp;nbsp;&lt;/font&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="141532">
+	<time>2007-01-29T00:00:00Z</time>
+	<geocacher>massimo</geocacher>
+	<type>Found</type>
+	<text>&lt;div&gt;An den Schulschlu&amp;szlig; hatte ich nicht gedacht... &lt;/div&gt;&lt;div&gt;So musste ich mich ein wenig unverf&amp;auml;nglich hinstellen.&lt;/div&gt;&lt;div&gt;Sehr gute Idee mit dem Sichern der Bilder auf einem Server. Das Problem mit der Aufnahme hatte mich bisher davon abgehalten WebCam-Caches zu machen. Das ist jetzt mein Erster.&lt;/div&gt;&lt;div&gt;Schade nur, dass er nicht in GC erscheint.&lt;/div&gt;&lt;div&gt;&amp;nbsp;TFTC&lt;/div&gt;&lt;div&gt;massimo&lt;/div&gt;</text>
+</log>
+
+
+<log id="133185">
+	<time>2006-12-21T00:00:00Z</time>
+	<geocacher>Team Liner</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nach dem Zahnarztbesuch habe ich mich an die Telefonzelle gestellt und mein GPSr von mir gestreckt, zur Sicherheit 90 Sekunden lang die seltsamen Blicke der vorbeigehenden Muggles ertragen. K&amp;ouml;nnen 90 sec lang sein! Zum Gl&amp;uuml;ck waren zwei Bilder gespeichert. Da hat einer der Hawks wirklich einen gro&amp;szlig;artigen Service geschaffen.&lt;/p&gt;&lt;p&gt;Vielen Dank&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.21373" lon="7.10282">
+	<time>2008-03-05T00:00:00Z</time>
+	<name>OC5346</name>
+	<desc>Teufelsklippen</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=124382</url>
+	<urlname>Teufelsklippen</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Teufelsklippen</name>
+			<owner>geopi</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Virtual</type>
+			<container>Virtual</container>
+			<difficulty>1.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Dauerlauf-, Wander- u. Bergfahrradfahrengeeignet (nur bedingt kinderfreundlich und wenig Kinderwagengeeignet)</summary>
+			<description html="true">&lt;p&gt;Auf meiner &amp;auml;lteren Topografischen Karte von diesem Gebiet hatte ich mal die &amp;quot;Teufelsklippen&amp;quot; entdeckt. Dieser Name hat mich neugierig gemacht und ich wollte mir diese teuflischen Klippen mal vor Ort anschauen. Bei der kleinen Wandertour (mit Cache-Erfolgen)&amp;nbsp; ;) in dem mit Wanderwegen durchzogenen Waldgebiet westlich der Kohlfuhrt habe ich dann ein kleines Plateau entdeckt zu dem man nur &amp;uuml;ber einen schmalen Pfad gelangt. Von dort hatte man, Jahreszeit bedingt, eine fantastische Aussicht auf&amp;#39;s Tal. Im Sommer ist (lt. der Log-Eintr&amp;auml;ge) der Ausblick wegen des Laubs nicht ganz so ungest&amp;ouml;rt.&lt;/p&gt;&lt;p&gt;Das Wetter wurde an dem Tag so schlecht, dass ich selber leider max. 300 m der Aussicht genie&amp;szlig;en durfte. Darum jetzt dieser virtuelle Cache, nicht ohne Eigennutz, denn &lt;em&gt;&lt;font color=&quot;#003300&quot;&gt;wer Loggen will, muss ein Beweisfoto machen auf dem die herrliche Aussicht zu sehen ist - dann gibt&amp;#39;s das Passwort zum loggen.&amp;nbsp; ;)&amp;nbsp; &lt;/font&gt;(Foto bitte direkt an &lt;font color=&quot;#00cc00&quot;&gt;geopi@arcor.de&lt;/font&gt; schicken ... &amp;uuml;ber das Profil kann man keine Bilder anh&amp;auml;ngen.)&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Aber ich denke es lohnt sich wirklich, zumal man in dem Gebiet noch ein paar Caches mehr entdecken kann.&lt;/p&gt;&lt;p&gt;Wer mit Kindern anr&amp;uuml;ckt bitte aufpassen, denn vor Ort geht es ganz sch&amp;ouml;n steil runter und es ist f&amp;uuml;r Kinder 100%tig sehr verlockend hier ein bisschen zu klettern. Also - Kinder an die Leine nehmen ;)&lt;/p&gt;&lt;p&gt;Der Trampelpfad der zum Plateau f&amp;uuml;hrt ist m. e. nicht f&amp;uuml;r Kinderwagen geeignet.&lt;/p&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="334997">
+	<time>2008-07-24T00:00:00Z</time>
+	<geocacher>tillu</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wir (Zusammen mit wotillu)&amp;nbsp;haben dein &amp;quot;Plateau&amp;quot; gefunden, allerdings versperren nun junge&amp;nbsp;Birken die Aussicht auf das Tal . Aber&amp;nbsp;wir hatten sehr viel Spa&amp;szlig; und sind so manchen kleinen Pfad gelaufen&amp;nbsp;um ans Ziel zu kommen, bergauf und bergab. Es war eine spontane&amp;nbsp;Suche und wir hatten uns nicht vorbereitet, daher haben wir viel zu&amp;nbsp;weit weg geparkt (Lehrgeld &amp;lt;- passiert nicht wieder :-) )&lt;/p&gt;&lt;p&gt;TFTC&lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="306159">
+	<time>2008-05-25T00:00:00Z</time>
+	<geocacher>newman</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Bin&amp;nbsp;am Donnerstag eine kleine Runde gegangen und habe mir die Teufelsklippen zum Ziel gemacht. Sch&amp;ouml;nes Fleckchen :-). Bilder habe ich schon geschickt. Gruss Newman&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="304446">
+	<time>2008-05-21T00:00:00Z</time>
+	<geocacher>peterw-tal</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Auf meiner heutigen Wanderunde kam ich auch hier vorbei.Leider wu&amp;szlig;te ich ohne Vorbereitung nicht mehr genau die Aufgabe und habe kein den Vorgaben entsprechendes Bild gemacht.
+Mit Genehmigung vom Owner darf ich aber trotzdem loggen.
+Gr&amp;uuml;&amp;szlig;e v. PeterW-tal&lt;/p&gt;</text>
+</log>
+
+
+<log id="316781">
+	<time>2008-05-18T00:00:00Z</time>
+	<geocacher>Wegi79</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Um 15:20 Uhr an den Klippen angekommen. Dies alles geschah im Rahmen des caches Wupperpiraten, welchen ich an diesem Tag nicht gefunden habe.&lt;/p&gt;&lt;p&gt;Vielen Dank und Gruss sagt Wegi79&lt;/p&gt;</text>
+</log>
+
+
+<log id="302582">
+	<time>2008-05-15T00:00:00Z</time>
+	<geocacher>Tom-cache-attack</geocacher>
+	<type>Found</type>
+	<text>meinen ersten Geocache habe ich um ca. 16 Uhr vor dem gro&amp;szlig;en Regen geloggt &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;. Es war eine sch&amp;ouml;ne Tour und ich bin noch soeben trocken Zuhause angekommen. </text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.19583" lon="7.15817">
+	<time>2008-07-22T00:00:00Z</time>
+	<name>OC61CF</name>
+	<desc>Steinwald mit Fels und Ziegel</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=128105</url>
+	<urlname>Steinwald mit Fels und Ziegel</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Steinwald mit Fels und Ziegel</name>
+			<owner>Springbohne</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Multi</type>
+			<container>Small</container>
+			<difficulty>2.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Remscheid Hasten zwischen Felsen und Ziegel</summary>
+			<description html="true">&lt;span&gt;&lt;p&gt;Hallo das ist unser erster Cache!&lt;/p&gt;&lt;p&gt;Sucht dort&amp;nbsp;an den Schilder&amp;nbsp;nach den Koordinaten f&amp;uuml;r den Schatz. Der Schatz&amp;nbsp;liegt zwischen Steinen die nicht zum Wald passen&lt;/p&gt;&lt;p&gt;Jetzt genie&amp;szlig;t Ihr hoffentlich die ca.&amp;nbsp;1 km lange Strecke. Diese ist&amp;nbsp;ein guter Waldweg&amp;nbsp;und kann somit&amp;nbsp;mit Kinderwagen&amp;nbsp;befahren werden. Nur am Ende wirds ein wenig waldig.&lt;/p&gt;&lt;p&gt;Der eigentliche Schatz ist in einer kleinen Dose. Ihr k&amp;ouml;nnt kleine Dinge tauschen.&lt;/p&gt;&lt;p&gt;Drin sind:Logbuch--Murmel--1 DeutscheMark--Kleines Auto--Aufkleber&lt;/p&gt;&lt;p&gt;Stift bitte selber mitbringen.&lt;/p&gt;&lt;p&gt;wir w&amp;uuml;nschen Euch VIEL SPA&amp;szlig; bei unserem allerersten Cache. &lt;/p&gt;&lt;p&gt;Hier k&amp;ouml;nnte Ihr parken N51&amp;acute;11.652&amp;nbsp;&amp;nbsp; E007&amp;acute;09,966&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/span&gt;</description>
+			<hints>Tipp1:Schilder haben immer zwei seiten
+</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="349395">
+	<time>2008-09-13T00:00:00Z</time>
+	<geocacher>TeamKleincleo</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;Gut gefunden, sch&amp;ouml;ner Weg. War ein sch&amp;ouml;ner Spaziergang. Gut dass wir ihn trotz des Wetters gewagt haben, wurden am Ende mit Sonne belohnt.&lt;/p&gt;&lt;p&gt;In: -&lt;/p&gt;&lt;p&gt;Out: -&lt;/p&gt;&lt;p&gt;Log: 16:45 &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="337540">
+	<time>2008-08-14T00:00:00Z</time>
+	<geocacher>mightyronny</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Mightyronny, Mightykn&amp;ouml;di + Tinka waren heute an diesem wundersch&amp;ouml;nen Cache!&lt;/p&gt;&lt;p&gt;Raus: B&amp;auml;r&lt;/p&gt;&lt;p&gt;Rein: M&amp;uuml;nze&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="330929">
+	<time>2008-07-29T00:00:00Z</time>
+	<geocacher>Tom-cache-attack</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Sch&amp;ouml;ner Cache! Weiter so &lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;&lt;/p&gt;&lt;p&gt;in / out = nix&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;&lt;p&gt;Tom-Cache-attack &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="329919">
+	<time>2008-07-27T00:00:00Z</time>
+	<geocacher>Die Superpfoten</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute im Schwei&amp;szlig;e unseres Angesichts bei tropischem Klima,den Cache erklommen.&lt;/p&gt;&lt;p&gt;Die Hunde konnten sich danach im nahe gelegenen &amp;quot;Badesee&amp;quot; abk&amp;uuml;hlen.&lt;/p&gt;&lt;p&gt;Sch&amp;ouml;nes Versteck,weiter so. &lt;/p&gt;&lt;p&gt;Die Superpfoten bedanken sich. &lt;/p&gt;</text>
+</log>
+
+
+<log id="329423">
+	<time>2008-07-25T00:00:00Z</time>
+	<geocacher>jorgos1965</geocacher>
+	<type>Found</type>
+	<text>Hallo - netter Weg jetzt auch mit cachesuche. Ihr solltet noch mehr anbieten. out 1Dm in 200 Lire.&lt;br /&gt;</text>
+</log>
+
+
+<log id="329026">
+	<time>2008-07-24T00:00:00Z</time>
+	<geocacher>tillu</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wotan und ich (beides Newbies) haben diesen Cache als unsere Premiere ausgew&amp;auml;hlt und auf Anhieb gefunden. Das macht Lust auf mehr. THX&lt;/p&gt;&lt;p&gt;In: B&amp;auml;renschl&amp;uuml;sselanh&amp;auml;nger Out: Pin&lt;/p&gt;</text>
+</log>
+
+
+<log id="328140">
+	<time>2008-07-23T00:00:00Z</time>
+	<geocacher>peterw-tal</geocacher>
+	<type>Found</type>
+	<text>Erster Schreiber ! :D  &lt;br /&gt;
+So quasi direkt vor der Haustüre konnte ich den doch nicht auslassen.  ;)  &lt;br /&gt;
+Für den kleinen Morgenspaziergang vor der Arbeit bedankt sich PeterW-tal&lt;br /&gt;
+In   : Pin    Out  : Nix&lt;br /&gt;
+</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.20547" lon="6.80072">
+	<time>2008-08-27T00:00:00Z</time>
+	<name>OC65BE</name>
+	<desc>Parkhotel</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=129112</url>
+	<urlname>Parkhotel</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Parkhotel</name>
+			<owner>rapebe</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Micro</container>
+			<difficulty>2.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Als Gast im Volksgarten</summary>
+			<description html="true">&lt;p align=&quot;justify&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Der Volksgarten ist ein alter Park der Stadt D&amp;uuml;sseldorf. Er stammt aus dem 19. Jahrhundert und wurde im Zuge der Industriellen Revolution angelegt. 
+Circa 11 Hektar Land wurden aus dem Besitz der Grafenfamilie Arenberg im Jahr 1892 von der Stadt erworben. Im Kaufvertrag wurde ausdr&amp;uuml;cklich der Bau des Parks festgeschrieben. Der Baumbestand des Volksgartens ist teilweise sehr alt und damit richtig beeindruckend. Bis 1987 bestand der Volksgarten als naturnaher Park. Als 1987 die Bundesgartenschau nach D&amp;uuml;sseldorf kam, entschied man sich im Vorfeld, das Gel&amp;auml;nde v&amp;ouml;llig neu zu konzipieren, indem man S&amp;uuml;dpark, Schrebergartensiedlung Stoffeln, Stoffeler Friedhof(einenTeil davon) und Volksgarten in die Planung einband. In dieser Form existiert das Bundesgartenschaugel&amp;auml;nde bis heute und hoffentlich noch lange.&lt;/font&gt;&lt;/strong&gt;&lt;/em&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-surprised.gif&quot; border=&quot;0&quot; alt=&quot;Surprised&quot; title=&quot;Surprised&quot; /&gt;&lt;/p&gt;&lt;img src=&quot;images/uploads/39A60A62-C644-102B-B3FC-00163E359752.jpg&quot; alt=&quot;&quot; /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;em&gt;&lt;strong&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Der Volksgarten dient den B&amp;uuml;rgerinnen und B&amp;uuml;rgern heute als beliebtes Sport- und Freizeitgel&amp;auml;nde. Es gibt viele Rastm&amp;ouml;glichkeiten mit B&amp;auml;nken und Tischen, auf und an denen man picknicken und auch spielen kann. Einige Menschen scheinen auch &amp;quot;dauerhaft&amp;quot; im Park zu leben....sicher nicht ganz freiwillig. Ganz sicher aber ist der Park f&amp;uuml;r viele Tiere ein &amp;quot;Hotel&amp;quot;. So war der Baum, in dem ich den Cache zuerst als &amp;quot;Small&amp;quot; verstecken wollte, Schlafst&amp;auml;tte f&amp;uuml;r einen kleinen Igel. Und der zweite Baum war mit Markierung zum F&amp;auml;llen vorgesehen....das w&amp;auml;re f&amp;uuml;r den Cache nur ein kurzes Leben gewesen. Somit wurde aus dem beabsichtigten &amp;quot;Small&amp;quot; nur ein &amp;quot;Mikro&amp;quot;. F&amp;uuml;r ihn ist eine kleine Wohnst&amp;auml;tte in einem Baum gefunden worden.&lt;/font&gt;&lt;/strong&gt;&lt;/em&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-laughing.gif&quot; border=&quot;0&quot; alt=&quot;Laughing&quot; title=&quot;Laughing&quot; /&gt;
+&lt;/p&gt;
+&lt;img src=&quot;images/uploads/CE76E860-C643-102B-B3FC-00163E359752.jpg&quot; alt=&quot;&quot; /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+
+
+
+
+
+</description>
+			<hints>Öffne die Türe. Sie befindet sich UNTEN in einer Astgabel am Baum.</hints>
+			<licence></licence>
+			<logs>
+				
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.22302" lon="7.16472">
+	<time>2008-02-18T00:00:00Z</time>
+	<name>OC51F9</name>
+	<desc>Gelpetal080218</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=124047</url>
+	<urlname>Gelpetal080218</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Gelpetal080218</name>
+			<owner>geopi</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>1.0</difficulty>
+			<terrain>2.0</terrain>
+			<summary html="false">Dauerlauf-, Wander- u. Bergfahrradfahrengeeignet (Kinderfreundlich aber weniger Kinderwagengeeignet)</summary>
+			<description html="true">&lt;p&gt;Immer wieder mal schaue ich, ob es Caches im Gelpetal gibt. Aber da sich hier seit sehr, sehr vielen Monaten nichts zu tun scheint, habe ich den Entschluss gefasst&amp;nbsp; selber einen Cache zu verstecken. Und zwar in einer Gegend, in der ich einen Gro&amp;szlig;teil meiner Kindheit verbracht habe. Damals hatten wir eine Menge Spa&amp;szlig; und ich hoffe Euch macht die Suche auch etwas Spa&amp;szlig;.&lt;/p&gt;&lt;p&gt;Es ist ein kleines Marmeladenglas was Ihr sucht und der erste Finder darf sich &amp;uuml;ber einen kleinen &amp;Uuml;-Ei-Maulwurf und einen kleinen Stein aus dem Rhein beim Rheinfall von Schaffhausen (Urlaubsmitbringsel) freuen. Da das Glas wirklich recht klein ist, bitte nur entsprechende Dinge zum Tauschen mitbringen.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Es gibt keinen Stift - bitte bringt einen mit.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Erreichbar ist der Cache am schnellsten von der Parkm&amp;ouml;glichkeit bei N 51 13.665 E 7 09.833:&lt;/p&gt;&lt;p&gt;folgt hier einfach etwa einen halben Kilometer dem Wanderweg A3 und dann geht&amp;#39;s noch ein kleines St&amp;uuml;ck links den Berg rauf. Wer z&amp;uuml;gig geht, ist so in 6 Minuten am Cache.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Der Cache liegt nahe am Weg, der Wald muss bitte nicht umgepfl&amp;uuml;gt werden und man muss auch nicht in die Dornen! ;)&lt;/p&gt;&lt;p&gt;PS: Wer doch mit Kinderwagen anr&amp;uuml;ckt, sollte von o.g. Parkplatz der Stra&amp;szlig;e folgen, von da kann man auch, kurz vor dem ersten Haus im Tal, noch rechtzeitig links rauf und vermeidet so den, in diesem Teilst&amp;uuml;ck, wirklich kinderwagenunfreundlichen Wanderweg.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Hinweis: &lt;font size=&quot;0&quot; color=&quot;#cccccc&quot;&gt;Das Pferd vor Ort reitet von Ihm weg.&amp;nbsp;&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;</description>
+			<hints>Baumwurzel, Stein</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="367291">
+	<time>2008-10-25T00:00:00Z</time>
+	<geocacher>Darkwinduck</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute mit Gastcachern Cordula und Thomas gefunden. Sch&amp;ouml;ne Gegend, vielen Dank.&lt;/p&gt;&lt;p&gt;Nichts getauscht. &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="361925">
+	<time>2008-10-12T00:00:00Z</time>
+	<geocacher>blaftop</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Nachdem wir etwas Ziellos durch die Gegend gelaufen waren, mein Colorado&amp;nbsp;hat sich&amp;nbsp;beim Hochfahren aufgeh&amp;auml;ngt und hatte keine genaue Peilung, gut gefunden.&lt;/p&gt;&lt;p&gt;Danke viele Gr&amp;uuml;&amp;szlig;e&amp;nbsp;&amp;nbsp; blaftop&amp;nbsp;&lt;/p&gt;&lt;p&gt;out: Steinchen&lt;/p&gt;&lt;p&gt;in: Springfrosch&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="357638">
+	<time>2008-10-04T00:00:00Z</time>
+	<geocacher>walldwolf</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Zu Gast bei Freunden in Wuppertal - und bald recht oft hier wo der Cache liegt&lt;/p&gt;&lt;p&gt;Sch&amp;ouml;ne Gegend zum wiederkommen&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="365814">
+	<time>2008-09-28T00:00:00Z</time>
+	<geocacher>mb2mb</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Bei 10 km Rundwanderung mitgenommen. Gut gefunden. TFTC&lt;/p&gt;&lt;p&gt;mb2mb&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="345028">
+	<time>2008-08-30T00:00:00Z</time>
+	<geocacher>suzuluka</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;verdana,geneva&quot;&gt;hallo liebe leute,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;dies war mein erster cache. wurde von einem guten freund in dieses spiel eingeweiht und bin total begeistert.&amp;nbsp; haben es ganz leicht finden k&amp;ouml;nnen... mal sehen, was es hier in der umgebung noch so zu finden gibt.&amp;nbsp;&lt;/p&gt;&lt;p&gt;vielen dank,&lt;/p&gt;&lt;p&gt;suzuluka &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="323879">
+	<time>2008-07-13T00:00:00Z</time>
+	<geocacher>Springbohne</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Haben den Cache heute um 16 Uhr gehoben.Unser Startpunkt war die Ortschaft &amp;quot;Platz&amp;quot; in Remscheid dann weiter durch das Zillertal bis ins Gelpetal.Das sind ca.6 Kilometer hin und zur&amp;uuml;ck.&lt;/p&gt;&lt;p&gt;Waren ca.4 Stunden auf Tour mit 4 Erwachsenen und 3 Kids(6,5 und 2 Jahren)&lt;/p&gt;&lt;p&gt;IN=Muschel,Anh&amp;auml;nger&lt;/p&gt;&lt;p&gt;OUT=Murmle,Golden Stein&lt;/p&gt;&lt;p&gt;P.S:Die Waffel im Zillertal sind sehr lecker&lt;/p&gt;&lt;p&gt;Gruss Die 3 Springbohnen und die 4 Zimmermens&lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="313120">
+	<time>2008-06-15T00:00:00Z</time>
+	<geocacher>Tom-cache-attack</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Beim Sonntag Spaziergang gehoben.&lt;/p&gt;&lt;p&gt;in=nix&lt;/p&gt;&lt;p&gt;out=nix &lt;br /&gt;&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;&lt;p&gt;Tom-cache-attack &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="313168">
+	<time>2008-06-15T00:00:00Z</time>
+	<geocacher>Die Superpfoten</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Auf einer sch&amp;ouml;nen Runde durch das Gelpetal,schnell gefunden.&lt;/p&gt;&lt;p&gt;Die Superpfoten bedanken sich.&lt;/p&gt;&lt;p&gt;In/out: NIX&lt;/p&gt;</text>
+</log>
+
+
+<log id="310903">
+	<time>2008-06-07T00:00:00Z</time>
+	<geocacher>Murianora</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo!&lt;/p&gt;&lt;p&gt;Nach einer riesigen Umwegrunde (wir hatten den falschen Parkplatz und dachten das w&amp;auml;re trotzdem kein Problem) haben wir heuten diesen Cache als unseren allerersten (!) gehoben.&lt;/p&gt;&lt;p&gt;Insgesamt waren wir dabei 12,4 km unterwegs (soviel zum Thema &amp;quot;in 6 Minuten zu erreichen&amp;quot;), was aber definitiv unser Anf&amp;auml;ngerfehler war.&lt;/p&gt;&lt;p&gt;Hat riesig Spa&amp;szlig; gemacht, vielen Dank! :)&lt;/p&gt;&lt;p&gt;Murianora&lt;/p&gt;&lt;p&gt;IN: kleine Muschel aus Holland&lt;/p&gt;&lt;p&gt;OUT: Stein vom Rhein&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="296980">
+	<time>2008-05-03T00:00:00Z</time>
+	<geocacher>rock_franky</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Heute bei einer sch&amp;ouml;nen Wanderung im Glepetal gehoben.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In = kleine Vogelfeder&lt;/p&gt;&lt;p&gt;OUT = nichts&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; /&gt; &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="295284">
+	<time>2008-04-29T00:00:00Z</time>
+	<geocacher>dr.eisheiliger</geocacher>
+	<type>Found</type>
+	<text>Der Dr. Eisheilige hat bei sch&amp;ouml;nem Wetter das Gelpetal genossen und sich sehr &amp;uuml;ber den Cache gefreut: danke!&lt;br /&gt;</text>
+</log>
+
+
+<log id="279790">
+	<time>2008-03-23T00:00:00Z</time>
+	<geocacher>Menial</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Als letzten von dreien heute auffem wundersch&amp;ouml;nen Osterspaziergang in meinem &amp;quot;alten Revier&amp;quot; recht gut gefunden.&amp;nbsp;&lt;/p&gt;&lt;p&gt;TNLN &amp;amp; t4C&lt;/p&gt;&lt;p&gt;Menial&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="268943">
+	<time>2008-02-19T00:00:00Z</time>
+	<geocacher>peterw-tal</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;a&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;&lt;font size=&quot;4&quot;&gt;F&lt;/font&gt; &lt;/font&gt;&lt;a&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp;&lt;font size=&quot;4&quot; color=&quot;#ff0000&quot;&gt;T &lt;/font&gt;&lt;a&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/a&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;font size=&quot;4&quot;&gt;&amp;nbsp;F&lt;/font&gt; &lt;/font&gt;&lt;a&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/a&gt;&amp;nbsp; um 7:50 Uhr&lt;/p&gt;&lt;p&gt;&amp;nbsp;DEN konnte ich einfach nicht auslassen!!&lt;/p&gt;&lt;p&gt;Hier konnte ich sogar ohne GPS hin,da das Zielgebiet mal Station eines Multi&amp;acute;s vor 4 Jahren war und sofort auf dem Foto wiedererkannt wurde.&lt;/p&gt;&lt;p&gt;In&amp;nbsp; : 2 Glasmurmeln&amp;nbsp;&amp;nbsp; Out : nix&lt;/p&gt;&lt;p&gt;Danke sagt PeterW-tal&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.25917" lon="7.14833">
+	<time>2008-05-08T00:00:00Z</time>
+	<name>OC5A44</name>
+	<desc>Webcam Wuppertal Gathe</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=126173</url>
+	<urlname>Webcam Wuppertal Gathe</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Webcam Wuppertal Gathe</name>
+			<owner>just</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Webcam</type>
+			<container>Virtual</container>
+			<difficulty>1.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Webcam in Wuppertal</summary>
+			<description html="true">&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;3&quot;&gt;Tach auch!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Dies ist mein erster OC-Only Cache, aber das auch nur weil es auf gc.com keine Webcam Caches mehr gibt. ;)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;Die Webcam &amp;quot;blickt&amp;quot; von der Gathe hinunter in Richtung Morianstra&amp;szlig;e. Das Haus im Hintergrund ist der neue Shopping-Palast am Neumarkt. &lt;br /&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Die erste Aufgabe ist es die Seite der Webcam zu finden. Das sollte aber mit der gezielten Eingabe einiger Stichworte auf der Seite mit 6 Buchstaben kein Problem darstellen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;So ungef&amp;auml;hr sollte das Bild aussehen (allerdings wird sich das Geb&amp;auml;ude im Hintergrund in den n&amp;auml;chsten Wochen noch etwas ver&amp;auml;ndern) :&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&lt;img src=&quot;http://img143.imageshack.us/img143/9690/webcamqa1.jpg&quot; alt=&quot;agni &amp;amp; just auf der gathe&quot; title=&quot;agni &amp;amp; just auf der gathe&quot; width=&quot;320&quot; height=&quot;240&quot; /&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;rechts unten steht &lt;em&gt;agni krots&lt;/em&gt; mit &lt;em&gt;just &lt;/em&gt;(arm oben)&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;Ungef&amp;auml;hr bei den o.g. Koordinaten gibt es eine Stelle, an der Ihr rechts unten im Webcam-Bild erscheint.&lt;br /&gt;Die Stelle ist relativ nahe am Stra&amp;szlig;enbelag, also sch&amp;ouml;n aufpassen und vlt. besser ohne Kind und/oder Hund den Cache angehen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;Macht euch irgendwie bemerkbar, also Arme hoch, Regenschirm schwenken, Lagerfeuer machen, Nachts mit &amp;#39;ner Taschenlampe o.&amp;auml;.&lt;br /&gt;Wenn die Aufnahme euch nur ganz normal zeigt werde ich die Logs nicht l&amp;ouml;schen, aber ich werde bitter entt&amp;auml;uscht sein :)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Viel Spa&amp;szlig; dabei&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;Gru&amp;szlig;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial,helvetica,sans-serif&quot; size=&quot;2&quot;&gt;just&amp;nbsp;&lt;/font&gt;&lt;/p&gt;</description>
+			
+			<licence></licence>
+			<logs>
+				
+<log id="330154">
+	<time>2008-07-27T00:00:00Z</time>
+	<geocacher>Ruhrcacher</geocacher>
+	<type>Found</type>
+	<text>lfd Nr: 303&lt;br /&gt;GPSr n&amp;ouml;tig: ja&lt;br /&gt;Logzeit: 10:26&lt;br /&gt;&lt;br /&gt;Auf der heutigen Cacherunde mit Matrin1987, renaaH 2 und Nik von den Hawks geloggt.&lt;br /&gt;Die drei sind &amp;uuml;brigens auch auf dem Bild zu sehen.&lt;br /&gt;&lt;br /&gt;TFTC &amp;amp; sch&amp;ouml;ne Gr&amp;uuml;&amp;szlig;e vom Ruhrcacher&lt;br /&gt;Christof</text>
+</log>
+
+
+<log id="330191">
+	<time>2008-07-27T00:00:00Z</time>
+	<geocacher>renaaH 2</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Auf der heutigen Cacherunde mit Matrin1987,&amp;nbsp;Ruhrcacher und Nik von den Hawks geloggt.&lt;br /&gt;Ich bin auf dem Bild (Webcam Log)der Rechtsau&amp;szlig;en.&lt;br /&gt;TFTC&lt;br /&gt;renaaH 2&lt;br /&gt;Manfred&lt;/p&gt;</text>
+</log>
+
+
+<log id="328434">
+	<time>2008-07-23T00:00:00Z</time>
+	<geocacher>peterw-tal</geocacher>
+	<type>Found</type>
+	<text>So ´nen Web-Cam-Cache wollt ich seit Jahren immer mal ausprobieren,&lt;br /&gt;
+heute war´s soweit.Ich habe eine andere Position als Just oder Team A-Jgewählt,&lt;br /&gt;
+am Mast links der Typ  in dem roten Leibchen das bin  ich.   8)  &lt;br /&gt;
+In einer Hand das Handy, in der anderen das GPS,aber bei der Auflösung der Cam sieht man nix davon.&lt;br /&gt;
+Grüße v. PeterW-tal und noch dies : last but not least  thx to ElAchimo for the technical support.&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="300029">
+	<time>2008-05-10T00:00:00Z</time>
+	<geocacher>Team A-J</geocacher>
+	<type>Found</type>
+	<text>Dann kommt hier das erste Log ;).&lt;br /&gt;Ich bin unten links dabei mein Garmin und meine Kamera hochzuhalten. Leider ist die Qualit&amp;auml;t zu schlecht ...&lt;br /&gt;TFTC&lt;br /&gt;Gru&amp;szlig;&lt;br /&gt;Team A-J&lt;br /&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.24367" lon="7.20022">
+	<time>2007-03-24T00:00:00Z</time>
+	<name>OC338D</name>
+	<desc>Scharpenacker Letterbox</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=116258</url>
+	<urlname>Scharpenacker Letterbox</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Scharpenacker Letterbox</name>
+			<owner>firefly</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Other</type>
+			<container>Regular</container>
+			<difficulty>3.0</difficulty>
+			<terrain>3.0</terrain>
+			<summary html="false">mit Karte und Kompass durchs Hundeland</summary>
+			<description html="true">&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;table border=&quot;0&quot; align=&quot;center&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#009900&quot;&gt;Das Gel&amp;auml;nde:&amp;nbsp;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;font color=&quot;#009900&quot;&gt;Der &amp;quot;Scharpenacker Busch&amp;quot; war bis&amp;nbsp;vor einigen Jahren&amp;nbsp;der &amp;quot;Truppen&amp;uuml;bungsplatz Scharpenacken / Lichtscheid&amp;quot;. Viele Sch&amp;uuml;tzenl&amp;ouml;cher und zerfahrenes Gel&amp;auml;nde erinnern noch daran. Heute ist es das gr&amp;ouml;&amp;szlig;te Hundeauslaufgebiet Wuppertals. Flugmodelle und Drachen gehen bei gutem Wetter von den Wiesen in die L&amp;uuml;fte. Menschen mit Picknickdecke und Grill tummeln sich in der Sonne. Spazierg&amp;auml;nger genie&amp;szlig;en den weiten Blick ins Bergische Land.&lt;/font&gt; &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#ff9900&quot;&gt;Die Anreise:&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;font color=&quot;#ff9900&quot;&gt;&amp;Ouml;VP:&amp;nbsp;ab Bahnhof &amp;quot;Wuppertal-Barmen&amp;quot; mit der Buslinie 640 in Richtung &amp;quot;Echoer Str.&amp;quot; in 21 Minuten bis &amp;quot;Scharpenacker Weg&amp;quot; dann 800m Fu&amp;szlig;weg bis zu den Startkoordinaten.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#ff9900&quot;&gt;Parken:&amp;nbsp;an den Startkoordinaten.&lt;/font&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#ff0000&quot;&gt;Die Suche:&lt;font size=&quot;2&quot;&gt; &lt;/font&gt;&lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;font color=&quot;#ff0000&quot;&gt;Um die Letterbox(Cache) zu finden braucht ihr die Karte und euren Orientierungssinn.&lt;/font&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font color=&quot;#3300cc&quot;&gt;Die Letterbox: &lt;/font&gt;&lt;/td&gt;&lt;td&gt;&lt;p&gt;&lt;font color=&quot;#3300cc&quot;&gt;Ihr k&amp;ouml;nnt euch wie gewohnt ins Logbuch eintragen und Sachen tauschen. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#3300cc&quot;&gt;Weiterhin gibt es ein Stempelkissen und einen tollen selbstgeschnitzten Stempel, den ihr euch in euer eigenes Logbuch stempeln k&amp;ouml;nnt. Wenn ihr einen eigenen Stempel habt, stempelt ihn bitte ins Logbuch in der Box. Bitte lasst Stempel, Stempelkissen, Logbuch, Stift in der Box. Nicht tauschen!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#3300cc&quot;&gt;Inhalt: Stempel, Stempelkissen, Logbuch, Stift, Erstfindergutschein, Flummi, Pfeife, Sportabzeichen, DLRG-Silberadler, Auto, Finderhinweis&lt;/font&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</description>
+			<hints>Einundfünfziggradundvierzehnkommaachtdreisiebenminutennord Siebengradundzwölfkommaachtzweieinsminutenost</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="332643">
+	<time>2008-08-03T00:00:00Z</time>
+	<geocacher>romyni</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;es war unser erster cache und es ist eine sch&amp;ouml;ne gegend&lt;/p&gt;&lt;p&gt;wenn man genau guckt kann man den cache auch leicht finden&amp;nbsp;&lt;/p&gt;&lt;p&gt;da die gegend sehr sch&amp;ouml;n kann ich nur empfelen sich auf die suche zu machen &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="327970">
+	<time>2008-07-22T00:00:00Z</time>
+	<geocacher>Die Superpfoten</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hallo Firefly,&lt;/p&gt;&lt;p&gt;Die Superpfoten haben heute im zweiten Anlauf den Cache gefunden.&lt;/p&gt;&lt;p&gt;Warum beim erstenmal nicht,kann ich mir jetzt auch nicht erkl&amp;auml;ren,wohl den Wald vor lauter B&amp;auml;umen nicht gesehen.&lt;/p&gt;&lt;p&gt;Sehr sch&amp;ouml;ner Cache,unsere Hunde waren auch begeistert von der Runde.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="324893">
+	<time>2008-07-15T00:00:00Z</time>
+	<geocacher>Tom-cache-attack</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Tolle Idee! Den Cache habe ich gut gefunden. Der Cache teilt sich das Versteck momentan mit einer kleinen Kr&amp;ouml;te.&lt;/p&gt;&lt;p&gt;in/out = nix&lt;/p&gt;&lt;p&gt;Gru&amp;szlig;&lt;/p&gt;Tom-Cache-attack </text>
+</log>
+
+
+<log id="323810">
+	<time>2008-07-13T00:00:00Z</time>
+	<geocacher>GJL</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font size=&quot;4&quot;&gt;Gefunden!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;Der Garmin hat mich zu dem Dicken daneben gef&amp;uuml;hrt, der ein ideales Versteck w&amp;auml;re.&amp;nbsp;Beim Weggehen durch Zufall im D&amp;uuml;nnen&amp;nbsp;entdeckt.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size=&quot;4&quot;&gt;Der Deckel geht nicht mehr zu.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="312904">
+	<time>2008-06-14T00:00:00Z</time>
+	<geocacher>die 3 Wormser</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Sch&amp;ouml;ne Umgebung f&amp;uuml;r einen Cache. Dose ist immer noch zu klein. Das mit den Stempeln ist eine gute Idee.&lt;/p&gt;&lt;p&gt;Out: kleinen blauer Stein&lt;/p&gt;&lt;p&gt;In: Murmel&lt;/p&gt;&lt;p&gt;die 3 Wormser&lt;/p&gt;</text>
+</log>
+
+
+<log id="284297">
+	<time>2008-03-29T00:00:00Z</time>
+	<geocacher>dr.eisheiliger</geocacher>
+	<type>Found</type>
+	<text>Der Dr. Eisheilige hat den Cache gefunden und sich sehr gefreut: ein sch&amp;ouml;ner Cache.&lt;br /&gt; </text>
+</log>
+
+
+<log id="280100">
+	<time>2008-03-23T00:00:00Z</time>
+	<geocacher>cache_stef</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;wir haben heute, am ostersonntag, bei herllichem sonnenschein den cache auf anhieb gefunden.&lt;/p&gt;&lt;p&gt;out: silbernes p&amp;auml;ckchen, das wir sp&amp;auml;ter &amp;ouml;ffneten. inhalt: kleiner rosa heftklammerer&lt;/p&gt;&lt;p&gt;in: 1 Dollar-Schein, 1 Scraubenziehr (torx) und ein macdonalds multifunktionstool f&amp;uuml;r kids.&lt;/p&gt;&lt;p&gt;die dose ist ein wenig zu klein f&amp;uuml;r den ganzen kram. entweder gr&amp;ouml;ssere dose oder ein wenig leerr&amp;auml;umen :-)&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="276660">
+	<time>2008-03-15T00:00:00Z</time>
+	<geocacher>palsi</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;comic sans ms,sand&quot;&gt;Hallo von den Palsis!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Unser erster erfolgreicher Cash!!! Mit unserer Familie auf Endeckungstour. Wundersch&amp;ouml;ner Tag, tolles Wetter, sch&amp;ouml;nes uns bereits vielfach bekanntes Gebiet. Vielen Dank!&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-cool.gif&quot; border=&quot;0&quot; alt=&quot;Cool&quot; title=&quot;Cool&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;In: Geduldsspiel, Tacker und Gelstifte&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Out: Sportabzeichen, Streichh&amp;ouml;lzer und Travel Bug&lt;/font&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="274047">
+	<time>2008-03-08T00:00:00Z</time>
+	<geocacher>derkleineCacher</geocacher>
+	<type>Found</type>
+	<text>Hab&amp;#39; jetzt auch nen&amp;#39; Namen. Leider Regen beim R&amp;uuml;ckweg&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-frown.gif&quot; border=&quot;0&quot; alt=&quot;Frown&quot; title=&quot;Frown&quot; width=&quot;18&quot; height=&quot;18&quot; /&gt;.</text>
+</log>
+
+
+<log id="273882">
+	<time>2008-03-07T00:00:00Z</time>
+	<geocacher>Die kleinen Cacher</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Hurrah, unser erster GEFUNDENER Cache! Beim Versuch, den Cache ohne GPS zu finden, sind wir leider kl&amp;auml;glich gescheitert - die Symbole auf der Schatzkarte waren einfach zu hoch f&amp;uuml;r uns.&lt;/p&gt;&lt;p&gt;Daf&amp;uuml;r wurden wir nun gleich &amp;nbsp;mit einem tollen Stempel belohnt. Vielen Dank daf&amp;uuml;r!&lt;/p&gt;&lt;p&gt;Die kleinen Cacher&lt;/p&gt;&lt;p&gt;In: nix&lt;/p&gt;&lt;p&gt;Out: gar nix&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="230087">
+	<time>2007-11-10T00:00:00Z</time>
+	<geocacher>blunderbore</geocacher>
+	<type>Found</type>
+	<text>&lt;font color=&quot;#0000ff&quot;&gt;Trotz allerschlechtester Wettervorhersagen habe wir und auf den Weg gemacht. Toll, dass die sich komplett geirrt haben. Bis auf ein paar Weg&amp;uuml;bersp&amp;uuml;lungen haben wir den cache trocken erreicht und gefunden. OUT ein Radiergummi - IN eine Figur und ein Travel Bug (447862) aus England. Dort wurde mal eine Flasche Champangner zur Geburt einer Tochter aufgemacht und&amp;nbsp;der&amp;nbsp;Korken hat es jetzt bis Wuppertal geschafft.&lt;br /&gt;&lt;br /&gt;&lt;/font&gt;&lt;br /&gt;&lt;font color=&quot;#ff6633&quot;&gt;Gr&amp;uuml;&amp;szlig;e&lt;br /&gt;Goldy und Blunderbore&lt;/font&gt;&lt;br /&gt;</text>
+</log>
+
+
+<log id="222417">
+	<time>2007-10-23T00:00:00Z</time>
+	<geocacher>Emma07</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Die beinahe unendliche Geschichte:&lt;/p&gt;&lt;p&gt;Beim ersten Mal hatte ich alles dabei und bin freudig los, weil wegen des schlechten Wetters wenige Muggles zu erwarten waren. Leider ist dem Wetter auch meine ausgedruckte Karte zum Opfer gefallen. Den vorletzten Punkt habe ich noch gefunden, aber das Final war nicht mehr erkennbar.&lt;/p&gt;&lt;p&gt;Beim zweiten Mal hatte ich die Sachen zuhause liegen gelassen :-(&lt;/p&gt;&lt;p&gt;Beim dritten Mal kam ich zuf&amp;auml;llig da vorbei und hatte etwas Zeit und dachte, ich w&amp;uuml;rde den vorletzten Punkt wiederfinden, da ich mir jetzt die Karte nochmal angesehen hatte. Irgendwie sehen auch W&amp;auml;lder in der Sonne anders aus als im Nebel und Regen.&lt;/p&gt;&lt;p&gt;Schlie&amp;szlig;lich habe ich den Breitengrad mit der falschen Minute eingegeben &amp;#39;Mh, beim letzten Mal war ich aber viel weiter s&amp;uuml;dlich&amp;#39;)&lt;/p&gt;&lt;p&gt;Heute hat es endlich geklappt und ich habe den Cache gefunden ;-)&amp;nbsp;&lt;/p&gt;&lt;p&gt;Es waren ein paar sch&amp;ouml;ne Spazierg&amp;auml;nge und ich habe mir vorgenommen hier &amp;ouml;fter zu laufen - vielleicht gibt es an einem der vielen Orte, die ich bei der Suche gefunden habe, bald auch einen neuen Cache :-)&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;No Trade&lt;/p&gt;&lt;p&gt;TFTC&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="217693">
+	<time>2007-10-12T00:00:00Z</time>
+	<geocacher>Tatze</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Hallo!&lt;/p&gt;&lt;p&gt;Heute waren wir mit unseren Hunden am Scharpenacken...Juhuuuu - unser erster Cache ist gefunden!!! Supertolle Gegend und keine Muggels dank Nieselregen. Es war ein sch&amp;ouml;ner Spaziergang der Lust auf den n&amp;auml;chsten Cache machte :-)&lt;/p&gt;&lt;p&gt;in: Hundeclicker&lt;/p&gt;&lt;p&gt;out: Pimboli ;-)&amp;nbsp; (mal sehen wo wir ihn hinbringen...)&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Kleiner Tip an Hundeleute: wenn ihr eure Hunde mit zu diesem Cache bringt passt bitte auf. Es ist KEIN offizielles Hundeauslaufgebiet!!!&amp;nbsp; Hunde m&amp;uuml;ssen angeleint werden - tut aber kaum jemand dort...;-). Aber oft ist eine Schafherde auf dem Gel&amp;auml;nde, der Sch&amp;auml;fer soll da sehr genau sein, auch Feldj&amp;auml;ger kontrollieren schon mal, einige sind auch schon dem J&amp;auml;ger begegnet...passt also bitte etwas auf. Schilder zu der Anleinpflicht findet ihr ganz versteckt, nicht bei den Startkoordinaten sondern weiter die Stra&amp;szlig;e durch wo wieder die Wiese anf&amp;auml;ngt...&lt;/p&gt;&lt;p&gt;Liebe Gr&amp;uuml;&amp;szlig;e von den Neulingen&lt;/p&gt;&lt;p&gt;Jule und Anja&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="217164">
+	<time>2007-10-09T00:00:00Z</time>
+	<geocacher>GeoFaex</geocacher>
+	<type>Note</type>
+	<text>&lt;br /&gt;
+Cache auf Wunsch des Owners MaGro an firefly übertragen.&lt;br /&gt;
+&lt;br /&gt;
+Viel Spass weiterhin!&lt;br /&gt;
+&lt;br /&gt;
+Gruß,&lt;br /&gt;
+GeoFaex&lt;br /&gt;
+&lt;br /&gt;
+Team Opencaching.de&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+</text>
+</log>
+
+
+<log id="202698">
+	<time>2007-08-31T00:00:00Z</time>
+	<geocacher>Triefnasen</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;&lt;font face=&quot;courier new,courier&quot; size=&quot;4&quot; color=&quot;#006600&quot;&gt;&lt;em&gt;&lt;strong&gt;Haben den Cache mit Hilfe des Hinweises gut gefunden.&lt;/strong&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;arial black,avant garde&quot; size=&quot;3&quot; color=&quot;#cc0033&quot;&gt;&lt;em&gt;Sch&amp;ouml;ne Umgebung, aber nichts f&amp;uuml;r Hunde-Hasser!&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;georgia,palatino&quot; size=&quot;4&quot; style=&quot;background-color: #0000cc&quot; color=&quot;#ccff00&quot;&gt;&lt;em&gt;Zum Gl&amp;uuml;ck m&lt;/em&gt;&lt;em&gt;&amp;ouml;gen wir Hund&lt;/em&gt;&lt;/font&gt;&lt;font face=&quot;georgia,palatino&quot; size=&quot;4&quot; style=&quot;background-color: #0000cc&quot; color=&quot;#ccff00&quot;&gt;&lt;em&gt;e&lt;/em&gt;&lt;/font&gt;&lt;em&gt;&lt;img src=&quot;lib/tinymce/plugins/emotions/images/smiley-wink.gif&quot; border=&quot;0&quot; alt=&quot;Wink&quot; title=&quot;Wink&quot; /&gt;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;helvetica&quot; color=&quot;#660000&quot;&gt;&lt;em&gt;&lt;font size=&quot;5&quot;&gt;&lt;strong&gt;Die TR&amp;Uuml;FFELSCHWEINE&amp;nbsp;&lt;/strong&gt;&lt;/font&gt;&lt;/em&gt;&lt;/font&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="201021">
+	<time>2007-08-25T00:00:00Z</time>
+	<geocacher>JackinOrschel</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ein sch&amp;ouml;ner Spaziergang durch den ehemaligen Truppen&amp;uuml;bungsplatz.&lt;/p&gt;&lt;p&gt;Die Gradangaben der Karte stimmen zwar nicht so ganz, aber man den Cache&lt;/p&gt;&lt;p&gt;auch so finden. Geht sogar ohne GPS wenn man sich in der Gegend etwas&lt;/p&gt;&lt;p&gt;auskennt und den Anfangspunkt&amp;nbsp; erkennt. Hat Spass gemacht.&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Felix, Nadine, J&amp;ouml;rg, Jeanette und Opa Ulrich&lt;/p&gt;&lt;p&gt;OUT: ADAC-Auto &amp;amp; Trillerpfeife&lt;/p&gt;&lt;p&gt;IN: Auto &amp;amp; Geschicklichkeitsspiel&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="198910">
+	<time>2007-08-20T00:00:00Z</time>
+	<geocacher>firefly</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;nach einigen startschwierigkeiten und mehreren hundehaufen gefunden=)&lt;/p&gt;&lt;p&gt;sehr sch&amp;ouml;ner cache!!!!&lt;/p&gt;&lt;p&gt;in: feuerzeug aus spanien &lt;/p&gt;&lt;p&gt;out: dlrg-abzeichen&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="199379">
+	<time>2007-08-20T00:00:00Z</time>
+	<geocacher>Kutscher</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Wo wir anfangen mu&amp;szlig;ten war uns nicht ganz klar. Deshalb irgendwie zum Bach und gucken. Durchj Dick und D&amp;uuml;nn gelaufen waren wir uns lange nicht sicher ob wir noch&amp;nbsp; richtig sind doch dann nach erreichen des ersten Spoilerbilds ging alles sehr schnell.&lt;/p&gt;&lt;p&gt;Tolle Runde, Danke&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;In ADAC Auto&lt;/p&gt;&lt;p&gt;Out anderes Auto&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="197288">
+	<time>2007-08-13T00:00:00Z</time>
+	<geocacher>vossi75</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Er hat uns keine Ruhe gelassen!&lt;/p&gt;&lt;p&gt;Nach Feierabend sind wir schnurstracks den selben Weg wie gestern gegangen, am letzten Landmark allerdings in eine andere Richtung - et voila!&lt;/p&gt;&lt;p&gt;Die Idee mit dem Radiergummistempel ist toll.&amp;nbsp;&lt;/p&gt;&lt;p&gt;Auf dem R&amp;uuml;ckweg gab es dann noch ein paar gesunde, ungespritzte &amp;Auml;pfel. Dieser Cache war ern&amp;auml;hrungsphysiologisch wertvoll UND hat Spa&amp;szlig; gemacht :-)&lt;br /&gt;&lt;/p&gt;&lt;p&gt;TNLN / TFTC&lt;/p&gt;&lt;p&gt;Mareike &amp;amp; Vossi&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</text>
+</log>
+
+
+<log id="195643">
+	<time>2007-08-12T00:00:00Z</time>
+	<geocacher>vossi75</geocacher>
+	<type>Not Found</type>
+	<text>&lt;p&gt;Nach einer wundersch&amp;ouml;nen Strecke am Bach entlang haben wir bei strahlendem Sonnenschein ca. 2:30 Std. vor Ort gesucht und nichts gefunden. Macht aber nichts; der Weg ist das Ziel und immerhin haben wir alle in der Karte vermerkten Landmarks entdecken k&amp;ouml;nnen. Beim n&amp;auml;chsten Besuch nehmen wir Kordel mit und wickeln die zum Abmessen von 20 Metern um den letzten Landmark :-P ... der Digitalkompass hatte im dichten Laub keinen Empfang, aber da laut Beschreibung die Gradangaben sowieso nicht stimmen, ist das auch nicht weiter tragisch. Hat jedenfalls super Spa&amp;szlig; gemacht.&lt;/p&gt;&lt;p&gt;DFDWDEUG (Danke f&amp;uuml;r die Wanderung durch ein unbekanntes Gebiet)&lt;/p&gt;&lt;p&gt;&amp;nbsp;Mareike &amp;amp; Vossi &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+
+	<wpt lat="51.23833" lon="6.77748">
+	<time>2008-11-15T00:00:00Z</time>
+	<name>OC6F37</name>
+	<desc>Artcache-No3 &quot;darin wartet jemand auf dich&quot;</desc>
+	<src>www.opencaching.de</src>
+	<url>http://www.opencaching.de/viewcache.php?cacheid=131539</url>
+	<urlname>Artcache-No3 &quot;darin wartet jemand auf dich&quot;</urlname>
+	<sym>Geocache</sym>
+	<type>Geocache</type>
+	<geocache status="Available" xmlns="http://geocaching.com.au/geocache/1">
+			<name>Artcache-No3 &quot;darin wartet jemand auf dich&quot;</name>
+			<owner>2beine</owner>
+			<locale></locale>
+			<state>Nordrhein-Westfalen</state>
+			<country>DE</country>
+			<type>Traditional</type>
+			<container>Small</container>
+			<difficulty>2.5</difficulty>
+			<terrain>1.0</terrain>
+			<summary html="false">Von hier aus sieht man das Gebäude einer Versicherung. Du mußt zuvor wo hindurch gehen um dahin zu kommen.</summary>
+			<description html="true">            &lt;p&gt;
+                &lt;span&gt;&lt;strong&gt;Die ARTCACHE-Serie:&lt;/strong&gt; &lt;br /&gt;
+Die Caches sind in der N&amp;auml;he von Kunstwerken, Galerien, Museen oder
+in Kunstwerken direkt versteckt. &lt;br /&gt;
+Die Container enthalten meist Kunstgegenst&amp;auml;nde und lassen eine
+seltsame Atmosph&amp;auml;re entstehen, die mit dem Ort zu tun hat.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;In dem Turm (Foto) einer Versicherung befindet sich ein sehr gro&amp;szlig;es Bild des Malers Gerhard Richter.&lt;br /&gt;Ein gigantischer Pinselstrich.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;Containerinhalt&lt;br /&gt;&lt;/span&gt; Kleines Glas mit Schraubdeckel: Logbuch,
+Foto, Keramikfigur, und Andenken zum Mitnehmen
+            &lt;/p&gt;</description>
+			<hints>an der Biege des Betons.Darauf setzen und ins Efeu greifen.</hints>
+			<licence></licence>
+			<logs>
+				
+<log id="389552">
+	<time>2008-12-11T00:00:00Z</time>
+	<geocacher>Flohli</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;Ich musste zwar &amp;uuml;berlegen aber Dank dem Hint doch gefunden.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;TFTC&lt;/p&gt;&lt;p&gt;Floh &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="386480">
+	<time>2008-11-28T00:00:00Z</time>
+	<geocacher>Mirtilli</geocacher>
+	<type>Found</type>
+	<text>&lt;p&gt;This was hard for us. We were almost giving up when ...&amp;nbsp; &lt;/p&gt;&lt;p&gt;Thanks! &lt;br /&gt;&lt;/p&gt;</text>
+</log>
+
+
+<log id="383918">
+	<time>2008-11-27T00:00:00Z</time>
+	<geocacher>gollum-de</geocacher>
+	<type>Found</type>
+	<text>netter Schatz, guter Platz, sehr gute Verpackung!&lt;br /&gt;</text>
+</log>
+
+
+			</logs>
+		</geocache>
+	</wpt>
+</gpx>
